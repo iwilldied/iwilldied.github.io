@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 function building() {
   echo "[" > all.pkgs
 if [[ -e compatity.txt ]]; then
@@ -54,9 +54,7 @@ apt-ftparchive packages ./DEB > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
-echo "Đang tạo Release...."
-printf "Origin: 8886\nLabel: 8886's Repo❤️\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: 8886 Repository❤️\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
-
+echo "Yêu Long Mến❤️ !"
 echo "------------------"
-echo "Xong !"
-exit 0;
+echo "Mod by Long Mến❤️ !"
+exit 0
