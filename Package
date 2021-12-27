@@ -1,0 +1,16 @@
+Package: com.patrickgriffin.disableyoutubeupdates
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Patrick_Griffin
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./DEB/disableyoutubeupdates.deb
+Size: 2914
+MD5sum: 9097866B3B81E4FF60D96B9D32EED7C7
+SHA1: 1514DADAE60AF3994EEE6279E0467E3272C6CA71
+SHA256: 5C3F8402D80A977172BD92E405110F1D3A1C19B40C618A813C349BE08A754FFD
+SHA512: E22F2EF01C5DB9866518643B58F978098B7426459ED4DED3BDCC75EEA5EA51AF6EC7E400FD797C9BBF7C117AA909735CA69AFE4C2EE692B324AC75BE8BE21C7C
+Description: Disables YouTube update prompts
+Name: DisableYouTubeUpdates
+Author: Patrick_Griffin
