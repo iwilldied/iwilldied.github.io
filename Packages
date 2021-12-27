@@ -1,3 +1,223 @@
+Package: com.8886.bytafont312
+Architecture: iphoneos-arm
+Version: 3.6
+Section: Tweaks
+Maintainer: 8886
+Depends: firmware (>= 10), unzip, mobilesubstrate
+Filename: ./DEB/com.8886.bytafont312_3.6_iphoneos-arm.deb
+Size: 936178
+MD5sum: 0ad365325de8e884053628af2e39740f
+SHA1: 70d8f6b5a34a1410065a078735f17182cacb72c9
+SHA256: 3878002fb4c6fa6e53d307cd07bdc896897139e902b59954f732c58da0da212e
+SHA512: 91977ff87df4d14f729c6bc2888d0b5b2c836c4eed55778e1e7eb72555eda4eb4222a501efefc2f014ed5d39e0594b3cb4ac3710bc02ed9c1483636ce55aa749
+Description: Đổi fonts chữ cho thiết bị của bạn- lưu ý tải fonts trong source hãy tải những fonts (TM) sẽ dùng được
+Name: BytaFont 3 (10-11-12)
+Author: Bytafont.com
+
+Package: com.8886.bytafonttweakmode
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: 8886
+Depends: mobilesubstrate
+Filename: ./DEB/com.8886.bytafonttweakmode_1.1_iphoneos-arm.deb
+Size: 27638
+MD5sum: e92c9fd4ec00551616c3b37ecff2594b
+SHA1: f13aa6e20fae63e83e022dd4d8d5a062f288d694
+SHA256: 7744109bd741a46c416d7115510c0880a99bfca6f5364e7e64f03050cb414e3f
+SHA512: a04c073ebd2985e23e7c6534e3e815c1f5248372a6cf58e6141092287f78e3ab55980d21e0fbdd3af3149f6628954bd08e19d81a444d365652b4809bc89a7257
+Description: BytaFontTM iOS 10.3.x  gói phụ trợ cho Bytafont 3
+Name: BytaFont Tweak Mode
+Author: Bytafont.com
+
+Package: com.8886.displayrecorder
+Architecture: iphoneos-arm
+Version: 1.3.22~beta1
+Section: System
+Maintainer: 8886
+Installed-Size: 2492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: ./DEB/com.8886.displayrecorder_1.3.22~beta1_iphoneos-arm.deb
+Size: 915768
+MD5sum: cf1d27204afde631f278bc7d1f849e22
+SHA1: 7c117f086a16b7d6c764b127a9f8ab0f3cc1511c
+SHA256: c031f8495430b0978547aea5e1ce5491fc4b0708ae05a628cf8f21758283d3ac
+SHA512: e685993c5be602edb11de3b8e7457094cb657ea63e42047cabdb16935020c831fd840a10670d62ebf00f5a1b8954dd08cd5f4ac2328709e0bbcfb03c84f06622
+Description: Ghi lại màn hình trong thời gian thực, gửi đến thư viện ảnh, giao diện web, vòng kết nối cảm ứng kiểu ProTapper và tích hợp Trình kích hoạt
+Tag: cydia::commercial
+Name: Display Recorder
+Depiction: Ghi lại màn hình trong thời gian thực, gửi đến thư viện ảnh, giao diện web, vòng kết nối cảm ứng kiểu ProTapper và tích hợp Trình kích hoạt
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+dev: rpetrich
+
+Package: com.8886.downgrade10xto841
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: 8886 <longmen06@gmail.com>
+Filename: ./DEB/com.8886.downgrade10xto841_1.0_iphoneos-arm.deb
+Size: 1126
+MD5sum: a4f6676cb5d13e7e7f103ad76022f08d
+SHA1: 4d266fd07ff6d3f01f3a033be9b697a7e31c6e88
+SHA256: fd71e7e536dd7753df98dfdf358eeae61979d8aafa7c4aaf4c51174cdbf68044
+SHA512: fc5b890dfed5b82f7c035aa5067b2134ab7abec6049fd627e7869e8db520b933fc47a49ed1b27d92353d03ef6c9379b07ca0f6129f640136c9547c726816c3d8
+Description: Hạ cấp iphone 5 chạy ios 10.3.3 xuống 8.4.1 yêu cầu jailbreak bằng h3lix
+Name: Downgrade iOS 10.x to 8.4.1
+Author: FTiOS.vn,Long Mến❤️
+Sponsor: longmen06.github.io <http://longmen06.github.io>
+
+Package: com.8886.icleaner
+Architecture: iphoneos-arm
+Version: 7.9.1
+Section: Tweaks
+Maintainer: 8886 <bigboss@thebigboss.org>
+Installed-Size: 17317
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils
+Filename: ./DEB/com.8886.icleaner_7.9.1_iphoneos-arm.deb
+Size: 6749536
+MD5sum: 09c0987462d1acef24c53c28e630aab0
+SHA1: b6049fac7a54e3e6c37b184652f09c232c327937
+SHA256: 97e5eb60acc2c16531bc36664f16ddd2cd09fdeaa8b32b6f8080784acfa51fe2
+SHA512: f71995213b793616b44f939192a9c4a25dcda3456b92db74b7be91ee4d8aa77a2dc04a3510129948041990a527ea5751ccee378a1f835b5018d7cedcdd3ade2d
+Description: Trình tối ưu hóa và dọn dẹp hệ thống iOS thực sự đầu tiên
+Tag: purpose::uikit
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner
+dev: exilecom
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.8886.ifile
+Architecture: iphoneos-arm
+Version: 2.2.0-1
+Section: Tweaks
+Maintainer: 8886❤️ <repo@cydia.vn>
+Installed-Size: 20224
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: ./DEB/com.8886.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9746690
+MD5sum: b29bf4327281968fbbcd81e25fb2f9fb
+SHA1: 169e2f7be560423d928fdfb19cdd3d99684e85a8
+SHA256: 7ff82d69d658d380e7c439f3880065f138779c145e87d6b70eba4d30af13effe
+SHA512: 310ba5addc29384514b9ed872860facab385c571f7bb87102433969c03f5525e11c34462f9df92715e2bbdf83c27188fd4ebf75545af7fa4c3ff393dd87f148f
+Homepage: http://longmen06.github.io/
+Description: Trình quản lý và xem tệp.  iFile là một trình quản lý tệp chạy dưới quyền người dùng.  Nó cho phép điều hướng nhanh chóng thông qua hệ thống tệp của iPhone.
+Name: iFile
+Author: Carsten Heinelt <repo@cydia.vn>
+Depiction: Trình quản lý và xem tệp.  iFile là một trình quản lý tệp chạy dưới quyền người dùng.  Nó cho phép điều hướng nhanh chóng thông qua hệ thống tệp của iPhone.
+
+Package: com.8886.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4-5b
+Section: Tweaks
+Maintainer: 8886
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Conflicts: com.repo.kenhtao.net.localiapstore
+Filename: ./DEB/com.8886.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 70870
+MD5sum: 96faee7ffbb8b261deac9bd83fa630bb
+SHA1: b2b1a99779e9c02f0673e76a3c41769a71128bb2
+SHA256: e217104decad99815bdac7c145ac1baebe6519245777f220a892befb383361d3
+SHA512: 6aab6208c6ccfcc2e0f02db7ed4d79f7abf98dca9a8e26dc60f63d973357c064e09609d617842fb877ec8b88773e50386fd0b46a83c20a2a8b7c7a9e81dee13b
+Description: Bỏ qua thanh toán trong các ứng dụng App Store
+Name: LocaliAPStore VN
+Author: Anondev
+Depiction: Bỏ qua thanh toán trong các ứng dụng App Store
+SileoDepiction: Bỏ qua thanh toán trong các ứng dụng App Store
+
+Package: com.8886.mc4
+Architecture: iphoneos-arm
+Version: 1.1.0-9
+Priority: extra
+Section: iOS-Cheats
+Maintainer: Alcatraz
+Installed-Size: 52
+Depends: mobilesubstrate
+Filename: ./DEB/com.8886.mc4_1.1.0-9_iphoneos-arm.deb
+Size: 30272
+MD5sum: 7bb57185c9b55033798c7a14af462198
+SHA1: 01847b917ff4f6d13b6873b462542a7b5e8fec7c
+SHA256: 2407e4f1a95c7ac194849fa334e234653b04ae056eea3d87f020216338b7ee33
+SHA512: 36fe8d56db6b8b808d56bb1d9ba77bd74b83f057777f7eaa673af49c39e159b2a37e07286d9e5a49a281e48e42f2c03b7924a622cce40cbf7c6945052743bb2f
+Homepage: http://ioscheaters.com
+Description: Modern Combat 4 Cheats
+Name: Modern Combat 4 Cheats
+Author: caoyin,Pkerr,& Prince7
+
+Package: com.8886.moderncombat2
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: 8886
+Installed-Size: 176
+Depends: mobilesubstrate , firmware (>= 7.0) , preferenceloader (>= 2.2.2)
+Filename: ./DEB/com.8886.moderncombat2_1.0.0_iphoneos-arm.deb
+Size: 26400
+MD5sum: 46635a99570de706e8cd6ec8ef2d33b4
+SHA1: e965ae6bab1b3b22c34c11d93f995b9d285b6875
+SHA256: 080dc814a294bc75a229f56e5f47f1a0ac6c8dd29e6939cbcc52471f1e976419
+SHA512: 73d111c55e498ae3556e735e1d67432255fdff67c1f54b95db2964c327e4faf52c8d1fa14c4c241cdf5c81835d00f9ac01696be14280f58d44d7b661ccaea52c
+Homepage: http://www.iOSGods.com
+Description: Selection of cheats for Modern Combat 2
+Tag: purpose::extension, cydia::commercial, ios7support::1, ios8support::1
+Name: Modern Combat 2 Cheats
+Sponsor: http://www.iOSGods.com
+Author: castix
+
+Package: com.8886.slidetounlock10
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 8886 <longmen06@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./DEB/com.8886.slidetounlock10_0.0.2_iphoneos-arm.deb
+Size: 5934
+MD5sum: 829ffa247f992b71e212b62d6d28f434
+SHA1: 463584003fe57772b421c7937457de4a7e8ad079
+SHA256: 7c6ab095c1f543c1d7cba00acfc893b158fb73c2ffd389e2f866a9ce8100b176
+SHA512: ced7b69fde2e57fd9157deedb220d693795f9094b2ecc1cf9aa607679a110505c78222a5d359110aa26af56074d7aeac947ca3eb0391d5cad2acb2d76c331232
+Description: Đưa Trượt để mở khóa trở lại iOS 10. Tinh chỉnh này hiển thị chế độ xem mật mã khi bạn trượt sang phải (thông thường để hiển thị chế độ xem Hôm nay) hoặc mở khóa thiết bị của bạn nếu bạn chưa đặt mật mã.
+Name: SlideToUnlock10
+Depiction: Đưa Trượt để mở khóa trở lại iOS 10. Tinh chỉnh này hiển thị chế độ xem mật mã khi bạn trượt sang phải (thông thường để hiển thị chế độ xem Hôm nay) hoặc mở khóa thiết bị của bạn nếu bạn chưa đặt mật mã.
+Author: Long Mến❤️ <kforcefidele@yahoo.com>
+
+Package: com.8886.slidetounlockx
+Architecture: iphoneos-arm
+Version: 1.0.5-3
+Section: Tweaks
+Maintainer: 8886 <repo@hackyouriphone.org>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Filename: ./DEB/com.8886.slidetounlockx_1.0.5-3_iphoneos-arm.deb
+Size: 171020
+MD5sum: 7dedd429fcbe44e4634a4f337da89180
+SHA1: fa3206684cf7d9abe6874a82510fef685d8804bc
+SHA256: b0f74ed6ccd4b2454eecff92620b98aef913f057d25cb74be3833090de4254d4
+SHA512: 79f955f916c074e6047bdd625a6c91a933399f9240be5ac97a0b9d7d1b3915b9820d7e0d9da1249fe22c30cc2aaf4e2df89512efef341429d8e455c696a341e9
+Homepage: http://longmen06.github.io
+Description: Bring Slide To Unlock Back To iOS 10.
+Name: SlideToUnlockX
+Author: XCXiao <repo@hackyouriphone.org>
+Depiction: Đưa Slide để mở khóa Trở lại iOS 10.
+
+Package: com.8886.youtubenoads
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: 8886
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./DEB/com.8886.youtubenoads_1.2-1_iphoneos-arm.deb
+Size: 83982
+MD5sum: 4409dae7182429d1be2b36be3653a729
+SHA1: 992a3b8461552870fda1c0d6dd4960ceace778ed
+SHA256: ed2bb78cb3c88c586c0c670e94142725d583eb0ed20ca7d3edfdf5c175944ccf
+SHA512: 8be2e9565d6e3bb365035cf32b6d7169e1570c6339826201d672c6c5b1f53d4f9a2483c3fe475ee7a3f8bd6eda97e681673b95105d072f2e6df1e5c049ce0680
+Description: Xóa quảng cáo và phát nền video Youtube
+Name: YouTube No Ads
+Author: Netskao
+Depiction: Xóa quảng cáo và phát nền video Youtube
+
 Package: com.patrickgriffin.disableyoutubeupdates
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -14,3 +234,4 @@ SHA512: e22f2ef01c5db9866518643b58f978098b7426459ed4ded3bdcc75eea5ea51af6ec7e400
 Description: Disables YouTube update prompts
 Name: DisableYouTubeUpdates
 Author: Patrick_Griffin
+
