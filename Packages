@@ -1,14 +1,15 @@
+Package: com.iwilldied.barcelltqm
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
-Maintainer: 8886
+Maintainer: iwilldied
 Installed-Size: 271
-Filename: ./DEB/com.8886.barcelltqm_1.0_iphoneos-arm.deb
+Filename: ./DEB/com.iwilldied.barcelltqm_1.0_iphoneos-arm.deb
 Size: 1572460
-MD5sum: a62378ba1ab83555c60de202fd8ec46b
-SHA1: 69df4a972eda75aba68e7d6fdc3db630fffc15df
-SHA256: 94a646e0e8b1ffa8525d9b40b52402c8139a1ecaa50e17b6d14e937370313f50
-SHA512: 5a43f5f91a74528fe23da05b7a2a4e74c98b72eb40ff0404524ce87b8801f5a178c2d1ca265d4f7c6e4b71827b74ee05ef909f32b15d7c3d24d003003f1f4207
+MD5sum: 80af4bc511b7ed2fea1e213025b7de01
+SHA1: 6effc3aa17c1d63ff0dbe171e8c464045207befb
+SHA256: e84a904e7e1591c536e192e86d5ce4721721f29636f12d6a2c91dcf67b0a9406
+SHA512: fddad550ef0bf166c1dab016e3033ad6a257725ea812f87edbb9d3cadb6814622704b1ab8936828359581218ba668690d59027a368469e21d0fc6f5d2bd59e6c
 Description: Xenhtml Widget
 Name: Barcell By Tqm
 Author: @Tqm-mos
