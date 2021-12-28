@@ -1,0 +1,11 @@
+Origin: iwilldied
+Label: iwilldied's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: iwilldied Repo :>
+MD5Sum:
+ 7c0a005e290458374b20a0fb5296ddf5 541 Packages
+ 1119812966a87f53b34a892d4d767d06 419 Packages.bz2
