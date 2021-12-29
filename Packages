@@ -12,3 +12,19 @@ SHA512: fddad550ef0bf166c1dab016e3033ad6a257725ea812f87edbb9d3cadb6814622704b1ab
 Description: Xenhtml Widget
 Name: Barcell By Tqm
 Author: @Tqm-mos
+
+Package: net.iwilldied.cahighfps
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Maintainer: iwilldied
+Filename: ./DEB/net.kenhtao.cahighfps_1.1.deb
+Size: 14002
+MD5sum: cb46387e9e9b81629796d74661d4a20b
+SHA1: 889288cab077239e1555d635e265b611a03b82f4
+SHA256: f663d9877d5e6007a898e03db20f0d9a699c41e085ded34557c4a8cd04fb0559
+SHA512: f16d40408c1f3381dc81ddd3e92233a02f08424c5283b9f83d8b22c2f7905c906cb065c5b1e1a10e01ab4da23bd6cc39674e3f0db210b7e3240a73e20373d754
+Description: Kick ứng dụng sử dụng FPS cao nhất.
+Name: CAHighFPS
+Author: PoomSmart
