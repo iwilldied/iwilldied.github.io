@@ -13,6 +13,38 @@ Description: Xenhtml Widget
 Name: Barcell By Tqm
 Author: @Tqm-mos
 
+Package: com.iwilldied.disableyoutubeupdates
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.disableyoutubeupdates_0.0.1_iphoneos-arm.deb
+Size: 3990
+Installed-Size: 104
+MD5sum: 77dda5ab4c7417bb619603d01ae2184b
+SHA1: c961bd7ef814104bc2d0b39ac9bf193211f1989b
+SHA256: 8bd834bc4f49c9c092df41dcfe450bea8398eb09b36ee6a6e86aa114f3ade5b6
+SHA512: 72667db991c8b1592755c0243329400999653116911972fba5cc56b7d9f710fb11a71821e9054e9a461f06704144e4a1fc1e916a4be59c849d5f6eb41b39a381
+Description: DisableYoutubeUpdates
+Name: DisableYoutubeUpdates
+Author: Patrick_Griffin
+
+Package: com.iwilldied.fontunineue
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontunineue_1.0_iphoneos-arm.deb
+Size: 64755962
+MD5sum: 7bff3c432b568fe37d2159880e45a0db
+SHA1: ef95982f6a1251ec1a53de29f9e6b2413327c03b
+SHA256: 0dc98afae576ee617449f599a1d9c4aa14a73ed1775b73f45ea9425b9a9b3b2e
+SHA512: e2ea5290bfae8bce0db5b98742dfa03b4a3b728e79bcbeda0ef60322cf5f191c81b28340255fdebaa99fafa3f1a17f194929730decdbdda41f936c5d06443651
+Description: Font Uni Neue (iOS10-14)
+Name: Uni Neue (iOS10-14)
+Author: Evelyn (ev_ynw)
+
 Package: net.iwilldied.cahighfps
 Architecture: iphoneos-arm
 Version: 1.1.0
