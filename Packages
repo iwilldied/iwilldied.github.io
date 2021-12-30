@@ -60,3 +60,104 @@ SHA512: f16d40408c1f3381dc81ddd3e92233a02f08424c5283b9f83d8b22c2f7905c906cb065c5
 Description: Kick ứng dụng sử dụng FPS cao nhất.
 Name: CAHighFPS
 Author: PoomSmart
+
+Package: com.iwilldied.newueartimescolor
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Widgets
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.newueartimescolor_0.1_iphoneos-arm.deb
+Size: 14705940
+MD5sum: 1b6d54f295080d9921de7a8da6444eee
+SHA1: 2928cb54661f313493c783d134481e8c6c988c59
+SHA256: 7f875a9cb3656e06c1a6756b02f0607ac0d6ad7314fb50cb314718c71e6a1ed6
+SHA512: eaebbf81c63126a53633f8cbaea37085a4308159a9f8a3b7f7c7508a000ec1035cd0d02308f6894534825a8e951abfe81b412e8b47382018aa0ef3e9fa6df3f7
+Description: Xenhtml Widget
+Name: NewYear Time Color
+Author: @Tqm-mos
+
+Package: com.iwilldied.spoti++
+Architecture: iphoneos-arm
+Version: 1.7.0
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.spoti++_1.7.0_iphoneos-arm.deb
+Size: 193316
+MD5sum: 1b63431de453e56ee189a0956136abce
+SHA1: b74ed5785b59e253cb1e09d2c2c83841b86e7250
+SHA256: 3ceddf62176585a84f09e0f85d786ed98adef495144ad16b8e757d28c7663dae
+SHA512: 1dbfe7a1d2e4b6cd7e84eba2dd60a4f7ea7575b69e8c85026ece463d9816f20a1c5e34a65c75e8aaa4063eb88f6e505ed20c9927ca6d6a918f748d38410fc4e8
+Description: Spotify Premium
+Name: Spoti++
+Depiction: Prespotify
+Author: Julioverne
+
+Package: com.iwilldied.neonboard
+Name: NeonBoard
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: kick hoạt chủ đề 7-14
+Maintainer: iwilldied
+Installed-Size: 2320
+Size:429508
+Author: ArtikusHG
+Section: Tweaks
+Replaces: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Provides: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Conflicts: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Version: 1.0.15
+MD5sum: 89bba17d921a77770d655fe1cc4e275d
+SHA1: b2f8ed015deef11a5a615b38e6fc6b56b85a3bf8
+SHA256: 6d5649bcb382237b1540e03e11d97e4adfa0d9987a75b279c920143b05c21278
+SHA512: 7e3619b9efd0ea16bd0f476cddfeab4292bea4e0b9df3f69de794196c69c3b6160edbee3e1b499ba753da48a6374f446810848aa70177cb5f217817fa88a39c9
+Installed-Size: 2320
+Depiction: kick hoạt theme
+
+Package: com.iwilldied.fontedgy1012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontedgy1012_1.0_iphoneos-arm.deb
+Size: 15817320
+MD5sum: db10d1a25118e933b84440a438c81f0c
+SHA1: aeb10f0457f2931e0a0b59a49412c30d4361b882
+SHA256: 56725d29c85679ddb801c67d7e5c933712309a6c220643b913b97e7e2d78a68f
+SHA512: bc0775eb51442b1952f5a8d2a7f3cfc396e561b3097888265c1336b8ab56a5c316bcb6cdc083de03e7dfa95bd0fe4798c84a0bfd542fdb7d1c202f8644d3d696
+Description: Phông chữ Edgy (iOS10-12)
+Name: Edgy (iOS10-12)
+Depiction: Fonts edgy source tqm-mos
+Author: Alex (@Alexman1979)
+
+Package: com.iwilldied.fontdream1012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontdream1012_1.0_iphoneos-arm.deb
+Size: 14932962
+MD5sum: c53db67a055500553683bd749d8670e2
+SHA1: 11af45ef5bfe646c70337b066667d8762e392ecd
+SHA256: 9be973bb014bb3daae01ee1d7aa42ab7e038670f04030b0c622ad2028e6aaf47
+SHA512: 6428fd8c7327b061b659bd00bd54343a192d48b806fc487a4db2caaf86990b4c6e1d99186e336465bb28d7219c117a74e105502818f7f3add9a1f9b2d2650359
+Description: Phông chữ Dream (iOS10-12)
+Name: Dream (iOS10-12)
+Depiction: Font dream source tqm-mos
+Author: Alex (@Alexman1979)
+
+Package: com.iwilldied.fontbong1012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontbong1012_1.0_iphoneos-arm.deb
+Size: 16315848'
+ bvy76MD5sum: 711013d693dc7204b295515e26d4d850
+SHA1: a9fe228bc9d9ccf00d5b8c945532a609f74010fd
+SHA256: 2a24459f8a517bc58aba89dce6ae8aaf4b39df4859a41f65c288588bab78ef59
+SHA512: 305955981fbc6f454237f72c6ee404b4d3ef365bb53fe0790f5ef42ec59013905b79d8d39f003e80dde181ca5444476cbe02c72d83ca6d52a9033cc15316d95e 
+Description: Phông chữ Bông (iOS10-12)
+Name: Bông (iOS10-12)
+Depiction: Font bông source tqm-mos
+Author: Alex (@Alexman1979)
