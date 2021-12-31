@@ -152,7 +152,7 @@ Version: 1.0
 Section: Fonts
 Maintainer: iwilldied
 Filename: ./DEB/com.iwilldied.fontbong1012_1.0_iphoneos-arm.deb
-Size: 16315848'
+Size: 16315848
 MD5sum: 711013d693dc7204b295515e26d4d850
 SHA1: a9fe228bc9d9ccf00d5b8c945532a609f74010fd
 SHA256: 2a24459f8a517bc58aba89dce6ae8aaf4b39df4859a41f65c288588bab78ef59
@@ -161,3 +161,52 @@ Description: Phông chữ Bông (iOS10-12)
 Name: Bông (iOS10-12)
 Depiction: Font bông source tqm-mos
 Author: Alex (@Alexman1979)
+
+Package: com.iwilldied.fontgooglesans1012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontgooglesans1012_1.0_iphoneos-arm.deb
+Size: 19960038
+MD5sum: f1b7f80dc5454bfbf42c60fa8d435781
+SHA1: c73ce51d47239e7bc55d71afb1ceef2c16c160b1
+SHA256: c1324264aa0e0d5490fa480535325c66843cb3877985ee2918e961d8f0061b93
+SHA512: 18b2e61b731b9141ea52d97a0d180114cfca65c37853971ca452bec654acfc8a2d17cad04a38b016c4a237b3594af0ebe45b8ff0e89367e3fe8405eb5f7b695b 
+Description: Phông chữ Google Sans (iOS10-12)
+Name: Google Sans (iOS10-12)
+Depiction: Fonts source tqm-mos
+Author: Alex (@Alexman1979)
+
+Package: com.iwilldied.ytadblocked
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.ytadblocked_15.42.5_iphoneos-arm.deb
+Size: 14368
+Installed-Size: 216
+MD5sum: e563a2ac702f55cfe82c34b692a4d8b0
+SHA1: 46a36bad4b783e5cb306482d8dba1aec6806c4e5
+SHA256: 3067050c25dddd4e8b00e732295ea39e4799e541b8c33b58eac1d04ff58488f2
+SHA512: c422cef3681cb3fe65c3532824fac85fb79b1936b3acb5c58df91fab3edae386cf637bbb8259176baade169ca84b2d9171ded46b0332d36d888c555482f78f2d
+Description: Youtube AdBlock tweak!
+Depiction: YTAdblocked
+Name: YTAdBlocked
+Author: Atebitsy
+
+Package: com.iwilldied.nokiaprokeyled
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.nokiaprokeyled_1.1_iphoneos-arm.deb
+Size: 1977786
+MD5sum: 9ee55e57fd642763ac0a7a4ee3d0373e
+SHA1: 53140b6e523870e39ae50d5e4a8fdf24e43f15f9
+SHA256: 102341711a816d054c6b26745374a16caa48f03cc00ab9aebe53d75af43d1132
+SHA512: 24d768120a85d71c92e0c3b3d94d3e411f9798c6fec7488e208033130a4a957dd464b6a4a221ade67d6d590e4c728fc8a7e2c70822332236a06a0e5bb75b6cca
+Description: Xenhtml Widgets
+Name: LS Nokia key Led tqm-mos
+Author: @Tqm-mos
