@@ -210,3 +210,67 @@ SHA512: 24d768120a85d71c92e0c3b3d94d3e411f9798c6fec7488e208033130a4a957dd464b6a4
 Description: Xenhtml Widgets
 Name: LS Nokia key Led tqm-mos
 Author: @ongcenh
+
+Package: com.iwilldied.sbnewyear
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Widgets
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.sbnewyear_0.3_iphoneos-arm.deb
+Size: 5800634
+MD5sum: 4562297392bf5163b29641ce28d7c6aa
+SHA1: b407674170ad2d26cbb212648d9b9759b40b920a
+SHA256: 7f4eb7a50d0ad71fbddfdb9b1cf86a2f69ca5b069792f1923ffc497434f69cc1
+SHA512: bcdc1ab636f9f2d8ff99725917e2d23075b11319c2751250bc8b2ffa21a6f0c134467fe68490f96fab936130a97e59fac8915be1c0284ddc7e6773d090a2aa51
+Description: Xenhtml Widget
+Depiction: XenHTML Ưitgets By TQM-MOS
+Name: SB NewYear TQM
+Author: @ongcenh <anhminh311105@gmail.com>
+
+Package: com.iwilldied.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.xenhtml_2.0.1_iphoneos-arm.deb
+Size: 8254090
+MD5sum: fe1917dc5770413175b158c971d04ef7
+SHA1: c30bb96351b426f000294423f5647ef7318c042b
+SHA256: ed1fa410d067b3e880c2a4c912196c75f388a2d951fed8dfad027e9c8a6cdebe
+SHA512: dadefdee0b5119e5fa6ba1016a8b0c27e85ea16abc7b0e93d6f8d1c09d17474f8b554dce1f531d3e94c3f146347c6c668cd2765fcf8297e9459f14b4afd868e3
+Description: Kick hoạt animation LS,HS Dịch bởi HĐP
+Name: XenHTML
+Author: Matt Clarke
+
+Package: com.iwilldied.lsnewyeartimes2
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Widgets
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.lsnewyeartimes2_0.2_iphoneos-arm.deb
+Size: 17268070
+MD5sum: ae2bedde18419620630b6b3064c185c9
+SHA1: 2790d81af58e0e1bd879218e8410d78e8bd8c81e
+SHA256: d697356056b061bcaa6d9c74def9f9e30a7a3817907930f32a2e6d75717ef056
+SHA512: d675cc1d0d7bc747890214850ea3de21ac907e5202c2438b52d5eacadb2a4d91977a8075f5569f6b86050d77c0b636de12ecb7ae11ba8498ebd58e075aa9e817
+Description: Xenhtml Widget
+Depiction: XenHTML Witgets By TQM-MOS
+Name: LS NewYear Times 2 TQM
+Author: @ongcenh <anhminh311105@gmail.com>
+
+Package: com.iwilldied.fontmemony1012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.fontmemony1012_1.0_iphoneos-arm.deb
+Size: 11752928
+MD5sum: a10b2fcee99521c11630c199925c3401
+SHA1: 8db8c328d8ece9218a3a54961c1f53a239178c92
+SHA256: 9807990966aacab4be8e696176bb9cc07663bb9eae9dc25dffd30b81a575cb1b
+SHA512: 8387457313e9d27e0306931b8f252d18536aab5d2ad9c69f4a2878cf6e3ab2012ce1b99e2697ceb7992bdcdeea0eaaccd18ab6e3cc6ddc1c6165260dd2cf4265 
+Description: Phông chữ Memony (iOS10-12)
+Name: Memony (iOS10-12)
+Depiction: Fonts source tqm-mos
+Author: @ongcenh (anhminh311105@gmail.com)
