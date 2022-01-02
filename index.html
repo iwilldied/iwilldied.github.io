@@ -1,28 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
     <title>588 - RePo&#9745;</title>
   <link rel="icon" type="img/png" href="img/icon3.png"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
   <link rel="stylesheet" href="style.css">
     <style>
-      body {
-        padding: 25px;
-        background-color: white;
-        color: black;
-        font-size: 25px;
-      }
-      .dark-mode {
-        background-color: black;
-        color: white;
-      }
+        body{
+        padding:10% 3% 10% 3%;
+        text-align:center;
+        }
+        img{
+            height:140px;
+                width:140px;
+        }
+        h1{
+        color: #32a852;
+        }
+        .mode {
+            float:right;
+        }
+        .change {
+            cursor: pointer;
+            border: 1px solid #555;
+            border-radius: 40%;
+            width: 20px;
+            text-align: center;
+            padding: 5px;
+            margin-left: 8px;
+        }
+        .dark{
+            background-color: #222;
+            color: #e6e6e6;
+        }
     </style>
-  </head>
-  <body>
-  <div class="profile-card">
+</head>
+ 
+<body>
+   <div class="profile-card">
     <div class="card-header">
       <div class="pic">
         <img src="img/icon.png" alt="">
@@ -62,14 +80,18 @@
       </div>
     </div>
   </div>
-    <div>
-      <button onclick="darkMode()">Darkmode</button>
-    </div>
+     
     <script>
-      function darkMode() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
-      }
+        $( ".change" ).on("click", function() {
+            if( $( "body" ).hasClass( "dark" )) {
+                $( "body" ).removeClass( "dark" );
+                $( ".change" ).text( "OFF" );
+            } else {
+                $( "body" ).addClass( "dark" );
+                $( ".change" ).text( "ON" );
+            }
+        });
     </script>
-  </body>
+</body>
+ 
 </html>
