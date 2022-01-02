@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>588 - RePo&#9745;</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>588 - RePo&#9745;</title>
   <link rel="icon" type="img/png" href="img/icon3.png"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
   <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <!-- box content -->
+    <style>
+      body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
   <div class="profile-card">
     <div class="card-header">
       <div class="pic">
@@ -53,11 +62,14 @@
       </div>
     </div>
   </div>
-
-  <!-- theme toggle button -->
-  <div id="toggleBtn"></div>
-</body>
-
-<script src="./script.js"></script>
-
+    <div>
+      <button onclick="darkMode()">Darkmode</button>
+    </div>
+    <script>
+      function darkMode() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+      }
+    </script>
+  </body>
 </html>
