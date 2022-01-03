@@ -81,6 +81,7 @@ body{
 
 #iconbox{
   border-radius: 200px;
+  border-bottom: 200px;
   overflow: hidden;
   width: calc(calc(100% / var(--columns)) - var(--spacing));
   margin-left: var(--spacing);
