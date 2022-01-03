@@ -95,6 +95,95 @@ body{
 }
 
 button{
-  border: none;
-  background-color: white;
+  background-color: auto;
+  color: black;
+}
+
+icon{
+  background-color: auto;
+  color: blue;
+}
+
+.card-header{
+  background: auto ;
+  padding: 60px 40px;
+}
+
+.pic{
+  display: inline-block;
+  padding: 10px;
+  background: linear-gradient(135deg, #dc2727, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f, #dc2727);
+  margin: auto;
+  border-radius: 100%;
+  background-size: 240% 240%;
+  animation: animated-gradient 10s linear infinite;
+}
+@keyframes animated-gradient{
+  5%{
+    background-position: left bottom;
+  }
+  10%{
+    background-position: right bottom;
+  }
+  15%{
+    background-position: right top;
+  }
+  20%{
+    background-position: left top;
+  }
+  25%{
+    background-position: left bottom;
+  }
+  30%{
+    background-position: right bottom;
+  }
+  35%{
+    background-position: right top;
+  }
+  40%{
+    background-position: left top;
+  }
+  45%{
+    background-position: left bottom;
+  }
+  50%{
+    background-position: right bottom;
+  }
+  55%{
+    background-position: right top;
+  }
+  60%{
+    background-position: left top;
+  }
+  65%{
+    background-position: left bottom;
+  }
+  70%{
+    background-position: right bottom;
+  }
+  75%{
+    background-position: right top;
+  }
+  80%{
+    background-position: left top;
+  }
+  85%{
+    background-position: left bottom;
+  }
+  90%{
+    background-position: right bottom;
+  }
+  95%{
+    background-position: right top;
+  }
+  100%{
+    background-position: left top;
+  }
+}
+
+.pic img{
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
