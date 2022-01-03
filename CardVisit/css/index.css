@@ -90,8 +90,8 @@ body{
 }
 
 #iconimg img{
-  width: 125px;
-  height: 125px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   flex-shrink: 0;
 }
