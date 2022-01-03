@@ -16,6 +16,7 @@
 
 body{
   width: 100%;
+  height: auto;
   text-align: center;
   font-family: BeVietnam;
   overflow-x: hidden;
@@ -32,11 +33,12 @@ body{
 
 #top img{
   align-items: center;
-  width: 160px;
-  height: 160px;
+  width: 200px;
+  height: 200px;
 }
 
 #name{
+  bottom: 50%;
   font-size: 1.875rem;
   font-weight: bold;
 } 
