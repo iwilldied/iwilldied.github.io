@@ -90,8 +90,8 @@ body{
 }
 
 #iconimg img{
-  width: 150px;
-  height: 150px;
+  width: 125px;
+  height: 125px;
   object-fit: cover;
   flex-shrink: 0;
 }
@@ -113,69 +113,21 @@ icon{
 
 .pic{
   display: inline-block;
-  padding: 5px;
-  background: linear-gradient(135deg, #dc2727, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f, #dc2727);
-  margin: auto;
+  padding: 10px;
+  background: linear-gradient(135deg, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f);
+  margin: -15px;
   border-radius: 100%;
   background-size: 240% 240%;
-  animation: animated-gradient 10s linear infinite;
+  animation: animated-gradient 5s linear infinite;
 }
 @keyframes animated-gradient{
-  5%{
-    background-position: left bottom;
-  }
-  10%{
-    background-position: right bottom;
-  }
-  15%{
-    background-position: right top;
-  }
-  20%{
-    background-position: left top;
-  }
   25%{
-    background-position: left bottom;
-  }
-  30%{
-    background-position: right bottom;
-  }
-  35%{
-    background-position: right top;
-  }
-  40%{
-    background-position: left top;
-  }
-  45%{
     background-position: left bottom;
   }
   50%{
     background-position: right bottom;
   }
-  55%{
-    background-position: right top;
-  }
-  60%{
-    background-position: left top;
-  }
-  65%{
-    background-position: left bottom;
-  }
-  70%{
-    background-position: right bottom;
-  }
   75%{
-    background-position: right top;
-  }
-  80%{
-    background-position: left top;
-  }
-  85%{
-    background-position: left bottom;
-  }
-  90%{
-    background-position: right bottom;
-  }
-  95%{
     background-position: right top;
   }
   100%{
