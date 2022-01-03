@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>588 - RePo&#9745;</title>
-  <link rel="icon" type="img/png" href="img/icon3.png"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="profile-card">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+    <div class="profile-card">
     <div class="card-header">
       <div class="pic">
-        <img src="img/icon.png" alt="">
+        <img style="width:400px;margin:5px;border-radius:10px;;margin-top:10px;" src="img/icon.png" alt="">
       </div>
       <div class="name">&#10096;iwilldied&#10097;&#9745;</div>
       <body>
@@ -42,14 +53,13 @@
 
      <br><br>
     <div class="card-footer">
-      <p><b>Mô tả: </b>Source Cydia độc quyền :></p>
-    <br>
-     <p><b>nghề nghiệp: </b>hiện tại chưa và làm này vì dame, và chỉ dành cho [ios10]</p>
-     <p><em>Design By Bonios, Remake By Me :></em></p>
-      </div>
+      <button onclick="darkMode()">Darkmode</button>
     </div>
-  </div>
-</body>
-  
-
+    <script>
+      function darkMode() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+      }
+    </script>
+  </body>
 </html>

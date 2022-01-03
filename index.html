@@ -1,17 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content=
-        "width=device-width, initial-scale=1.0">
-      <title>588 - RePo&#9745;</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>588 - RePo&#9745;</title>
   <link rel="icon" type="img/png" href="img/icon3.png"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
   <link rel="stylesheet" href="style.css">
+  <style>
+      body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+    </style>
 </head>
- 
 <body>
-     <div class="profile-card">
+  <div class="profile-card">
     <div class="card-header">
       <div class="pic">
         <img src="img/icon.png" alt="">
@@ -35,7 +45,7 @@
 
 
 
- <img style="width:50px;margin:5px;border-radius:10px;;margin-top:10px;" src="img/vtm.png" width='100%' height='auto' alt="Quét mã ViettelMoney">
+ <img src="img/vtm.png" width='100%' height='auto' alt="Quét mã ViettelMoney">
 
 
 
@@ -43,17 +53,22 @@
 
 
      <br><br>
-    
-      <button onclick="myFunction()">Dark Mode</button>
-     
+    <div class="card-footer">
+      <p><b>Mô tả: </b>Source Cydia độc quyền :></p>
+    <br>
+     <p><b>nghề nghiệp: </b>hiện tại chưa và làm này vì dame, và chỉ dành cho [ios10]</p>
+     <p><em>Design By Bonios, Remake By Me :></em></p>
+  <button onclick="darkMode()">Darkmode</button>
+    </div>
     <script>
-        function myFunction() {
+      function darkMode() {
         var element = document.body;
-        element.classList.toggle("dark");
-        }
+        element.classList.toggle("dark-mode");
+      }
     </script>
     </div>
   </div>
 </body>
- 
+  
+
 </html>
