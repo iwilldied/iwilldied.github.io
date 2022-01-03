@@ -90,8 +90,8 @@ body{
 }
 
 #iconimg img{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   flex-shrink: 0;
 }
@@ -185,7 +185,7 @@ icon{
 
 .pic img{
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 100%;
 }
