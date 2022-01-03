@@ -15,8 +15,8 @@
 
 
 body{
-  width: 100%;
-  height: auto;
+  width: center;
+  height: center;
   text-align: center;
   font-family: BeVietnam;
   overflow-x: hidden;
@@ -80,7 +80,7 @@ body{
 }
 
 #iconbox{
-  border-radius: 20px;
+  border-radius: 100px;
   overflow: hidden;
   width: calc(calc(100% / var(--columns)) - var(--spacing));
   margin-left: var(--spacing);
