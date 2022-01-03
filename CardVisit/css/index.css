@@ -115,7 +115,7 @@ icon{
   display: inline-block;
   padding: 10px;
   background: linear-gradient(135deg, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f);
-  margin: -15px;
+  margin: -20px;
   border-radius: 100%;
   background-size: 240% 240%;
   animation: animated-gradient 5s linear infinite;
