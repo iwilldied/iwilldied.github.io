@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>588 - RePo&#9745;</title>
+  <link rel="icon" type="img/png" href="img/icon3.png"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<script>
+
+function toggle5(showHideDiv, switchImgTag) {
+        var ele = document.getElementById(showHideDiv);
+        var imageEle = document.getElementById(switchImgTag);
+        if(ele.style.display == "block") {
+                ele.style.display = "none";
+        imageEle.innerHTML = '<img src="icon/click.png"  width="20%" height="auto">';
+        }
+        else {
+                ele.style.display = "block";
+                imageEle.innerHTML = '<img src="icon/up.png" width="25px" height="25px">';
+        }
+}
+
+  </script>
+
+
+
+<a href="" role="button">
+<img style="border-radius:20%; top:6.5px" href="bank.png" alt="" srcset="icon/bank.png 2x, bank.png 3x" class="icon">
+
+<label><b style="color:red">STK Ngân Hàng (Click here)</b></label>
+
+
+</a>
+
+
+
+
+<!--thẻ a có thể đặt ở đây-->
+<div id="contentDivImg" style="display: none;">
+<br>
+<b>MB Bank</b> <br>
+STK:  <b style="color:green">6331501949999</b>
+<br><br>
+<b>Viettinbank</b> <br>
+STK:  <b style="color:green">104001354704</b>
+<br><br>
+<b style="color:red; font-size:14px"> THANKS YOU !!! </b>
+
+ 
+</div>
+</body>
+</html>
