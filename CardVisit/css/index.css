@@ -80,11 +80,11 @@ body{
 }
 
 #iconbox{
-  border-radius: 200px;
-  width:50px;
-  margin:5px;
-  border-radius:10px;
-  margin-top:10px;
+  border-radius: 100px;
+  width:100px;
+  margin:50px;
+  border-radius:100px;
+  margin-top:100px;
 }
 
 #iconimg img{
