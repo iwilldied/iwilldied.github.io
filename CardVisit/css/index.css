@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "BeVietnam";
-  src: url("../fonts/BeVietnam-Bold.ttf") format("truetype");
+  font-family: "Bubblee";
+  src: url("../fonts/Bubblee Bold.otf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "BeVietnam";
-  src: url("../fonts/BeVietnam-SemiBold.ttf") format("truetype");
+  font-family: "Bubblee";
+  src: url("../fonts/Bubblee.otf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
