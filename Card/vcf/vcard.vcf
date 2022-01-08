@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+BDAY;VALUE=DATE:YYYY-MM-DD /ngày sinh/
+NOTE: /ghi chú/
+URL;CHARSET=UTF-8:
+FN;CHARSET=UTF-8:/tên đầy đủ của bạn/
+N;CHARSET=UTF-8:;/tên của bạn/;;;
+ORG;CHARSET=UTF-8:/công ty/;
+TEL;TYPE=CELL:/số điện thoại/
+Email;TYPE=Email:/email/
+END:VCARD
