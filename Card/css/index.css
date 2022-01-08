@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "Bubblee";
-  src: url("../fonts/Bubblee Bold.otf") format("truetype");
+  font-family: "BeVietnam";
+  src: url("../fonts/BeVietnam-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Bubblee";
-  src: url("../fonts/Bubblee.otf") format("truetype");
+  font-family: "BeVietnam";
+  src: url("../fonts/BeVietnam-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
@@ -15,8 +15,7 @@
 
 
 body{
-  width: center;
-  height: center;
+  width: 100%;
   text-align: center;
   font-family: BeVietnam;
   overflow-x: hidden;
@@ -33,8 +32,8 @@ body{
 
 #top img{
   align-items: center;
-  width: 200px;
-  height: 200px;
+  width: 160px;
+  height: 160px;
 }
 
 #name{
@@ -43,7 +42,7 @@ body{
 } 
 
 #iconname{
-  font-size: 0.5cm;
+  font-size: 1.3rem;
 
 }
 
@@ -55,7 +54,7 @@ body{
 }
 
 .body{
-  padding-top: 1rem,
+  padding-top: 1rem;
   padding-bottom: 1.5rem;
   align-items: center;
   justify-content: center;
@@ -79,7 +78,7 @@ body{
 }
 
 #iconbox{
-  border-radius: 25px;
+  border-radius: 20px;
   overflow: hidden;
   width: calc(calc(100% / var(--columns)) - var(--spacing));
   margin-left: var(--spacing);
@@ -96,54 +95,6 @@ body{
 }
 
 button{
-  background-color: auto;
-  color: black;
+  border: none;
+  background-color: white;
 }
-
-icon{
-  background-color: auto;
-  color: blue;
-}
-
-.card-header{
-  background: auto ;
-  padding: 60px 40px;
-}
-
-.pic{
-  display: inline-block;
-  padding: 10px;
-  background: linear-gradient(135deg, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f);
-  margin: -20px;
-  border-radius: 100%;
-  background-size: 240% 240%;
-  animation: animated-gradient 5s linear infinite;
-}
-@keyframes animated-gradient{
-  25%{
-    background-position: left bottom;
-  }
-  50%{
-    background-position: right bottom;
-  }
-  75%{
-    background-position: right top;
-  }
-  100%{
-    background-position: left top;
-  }
-}
-
-.pic img{
-  display: block;
-  width: 200px;
-  height: 200px;
-  border-radius: 100%;
-}
-
-overflow: hidden;
-  width: calc(calc(100% / var(--columns)) - var(--spacing));
-  margin-left: var(--spacing);
-  margin-bottom: var(--spacing);
-  display: flex;
-  flex-direction: column;
