@@ -274,3 +274,75 @@ Description: Phông chữ Memony (iOS10-12)
 Name: Memony (iOS10-12)
 Depiction: Fonts source tqm-mos
 Author: @ongcenh (anhminh311105@gmail.com)
+
+Package: com.iwilldied.otadisabler
+Architecture: iphoneos-arm
+Version: 0.1-9
+Section: System
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.otadisabler_0.1-9_iphoneos-arm.deb
+Size: 34980
+MD5sum: 43231510823a0cda4df70a15e436bbcc
+SHA1: e9db3cb726361126bf5a7153a1247e3381e4400f
+SHA256: a014ace29b82c840d30417fb1b9996a2997778f81e7664b66b7864d6f7c607f4
+SHA512: 5f62f543b4a2b425457add37e6cd4f7afed81a08e876b0578dee8baa7f48a31f52bcd3658e7e80dff155664e55e1b8442e70d4a2601a65d4bda3888beb777d89 
+Description: Xóa và tắt thông báo OTA
+Name: OTADisabler
+Depiction: hmmm
+Author: ichitaso
+
+Package: xyz.iwilldied.zebra
+Architecture: iphoneos-arm
+Version: 1.1.23
+Section: Packaging
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Maintainer: iwilldied
+Filename: ./DEB/xyz.iwilldied.zebra_1.1.23_iphoneos-arm.deb
+Size: 9289662
+MD5sum: 943c8cdd43b3c86d07fe2686f8b9e3e4
+SHA1: 40055ea73a90e732e1b4f2fcd6bbd47ed31dd310
+SHA256: d357c43bca51a23cda36ebe606b28ffeb11cdebc1e99b079984ed84c8d62af3f
+SHA512: cf154dd97018169a4390d551a9591dcda0d1aed9329c7b314a1f2a2b9d3425289328daef72638e6e10836b5d9743df2d88ccdc3984a921c5de61cf0fef339bd9 
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: Zebra Faster Cydia 
+Tag: compatible::9.0-14.8
+Description: Zebra Package Manager
+Name: Zebra
+Author: Zebra Team
+
+Package: com.iwilldied.saily
+Architecture: iphoneos-arm
+Version: 2.1-REL-1630256801
+Section: Packaging
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.saily_2.1-REL-1630256801_iphoneos-arm.deb
+Size: 11444362
+MD5sum: f2d7002862999ed2d61e44f8a27a370b
+SHA1: 57c0aa7deebe9048469ec4eb2e8a14002ec9ad7d
+SHA256: e8b8f841d98791cf358c497418c9dbadff31b0b080c278187cfc974bc2b15776
+SHA512: c78ba84083f8ccc7bdedcbeb6b2e7f0040cbebe1f6ac021d0fe1325a09b5aaf749605d4346baf9d9ea649e3d49a38a10dad3311ca82e3dc6963b0f562a7c3a08 
+Depiction: hmmm
+Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
+Description: Saily Faster Cydia
+Name: Saily
+Author: Saily Team <master@233owo.com>
+
+Package: me.iwilldied.installer
+Architecture: iphoneos-arm
+Version: 5.1-85
+Section: Packaging
+Depends: firmware (>= 11.0)
+Maintainer: iwilldied
+Filename: ./DEB/me.iwilldied.installer_5.1-85_iphoneos-arm.deb
+Size: 11857212
+MD5sum: 5079062e14c6d9d7db2108bc56e025bd
+SHA1: e2aa51923653feca7f28065ea672dc22f9d20773
+SHA256: eaee093fffc154f3fadd9baa48a7656de53f23d272cd5d6b67cc7dd6a8c11437
+SHA512: ce58c0bff36e884fdb008a3bedcb9ef4df3bbe2f5f7758bcec23762bbc7ead168e24d45f6ea7a0f4cab419a6439412f91ba26077b71445cb85e46d1d7434813c 
+Depiction: hmmm
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Description: Installer quản lý Packages
+Name: Installer
+Author: Author: AppTapp <support@apptapp.me>
