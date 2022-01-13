@@ -13,21 +13,21 @@ Description: Xenhtml Widget
 Name: Barcell By Tqm
 Author: @Tqm-mos
 
-Package: com.iwilldied.disableyoutubeupdates
+Package: com.iwilldied.ytdisableUpdates
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.disableyoutubeupdates_0.0.1_iphoneos-arm.deb
+Filename: ./DEB/com.iwilldied.ytdisableUpdates_0.0.1_iphoneos-arm.deb
 Size: 3990
 Installed-Size: 104
-MD5sum: 77dda5ab4c7417bb619603d01ae2184b
-SHA1: c961bd7ef814104bc2d0b39ac9bf193211f1989b
-SHA256: 8bd834bc4f49c9c092df41dcfe450bea8398eb09b36ee6a6e86aa114f3ade5b6
-SHA512: 72667db991c8b1592755c0243329400999653116911972fba5cc56b7d9f710fb11a71821e9054e9a461f06704144e4a1fc1e916a4be59c849d5f6eb41b39a381
+MD5sum: 1cc1daff0fd805add6610643c36b8205
+SHA1: 21f607fba04e4768082027e3e7715ecd906b23f7
+SHA256: 9c944dba899a40e9369969be63231d612bdf23b0dfa5bae202a3d128cbf06e3f
+SHA512: 8b018d6582b6cf951b4a91018b1c5bc6179336403149976a33be54b46338cd0d67bf6dc4d3bcaaf08a696b5d1674e6168159f9eb1dd6d1b0d66a2cf0b148f1b9
 Description: DisableYoutubeUpdates
-Name: DisableYoutubeUpdates
+Name: YTDisableUpdate
 Author: Patrick_Griffin
 
 Package: com.iwilldied.fontunineue
