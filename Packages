@@ -346,3 +346,96 @@ Icon: https://synnygr.dev/AppTapp/installer_icon.png
 Description: Installer quản lý Packages
 Name: Installer
 Author: Author: AppTapp <support@apptapp.me>
+
+Package: com.iwilldied.ytdescriptionCopy
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.ytdescriptionCopy_1.1_iphoneos-arm.deb
+Size: 24886
+Installed-Size: 275
+MD5sum: 707c9bcad546884d85095f222ccb6a94
+SHA1: 287bb31a60f2773e3bb8ea90443e85603872213d
+SHA256: 77786380ffcf99741324da9d10b4ece44906e0b18bf80ee65f2291564adf1ade
+SHA512: ca5d92d736124d5549309934fd550f93e75a24caddf98795e18015047813cc818566a4ab8915509f0c3c685e7ccae73b090b929b2500a9b65fb96a09a74b6381
+Description: Copy youtube descriptoin
+Depiction: hmmm
+Name: YTDescriptionCopy
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+
+Package: com.iwilldied.disableuglysuggestions
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.disableuglysuggestions_1.3_iphoneos-arm.deb
+Size: 8668
+Installed-Size: 282
+MD5sum: 0adbcd062b8b898aa61055f5ff654f9b
+SHA1: e6fedd49d65c000b13fd798ae159296edebe4118
+SHA256: 68cd8de1abce457b34fc579caa616f59aa03258909818b1b2797d7712970e4d3
+SHA512: d581c060816101e75a40133df4b14a43f4b4606ae8334c882d2ce8932628f68774fd1e23a7ae043fa689bd7876e319e401e0aa519f0f892ac734a886b7e7164a
+Description: Tắt banner cuối video YT
+Depiction: hmmm
+Name: YTDisableUglySuggestions
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+
+Package: com.iwilldied.ytspeed
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.ytspeed_1.0.1_iphoneos-arm.deb
+Size: 16114
+Installed-Size: 200
+MD5sum: 5729b7cad712eb5020a590611adbfeb1
+SHA1: af946f88c0d4a410accc22fb575b0bb3620a9c5a
+SHA256: e2a2c34eaa28852bacee2e44aad49dab58f3d64f49569695517dd59aefad01db
+SHA512: cae9c62a5730f42eba500c5c6bd73f89742bd4b16b6580389e0e3740cc4b211a10f40d482183f5e448cc6214b59bcb7181e1ea92ca02abe52c1bcdc989b6f016
+Description: X4 speed video YT
+Depiction: hmmm
+dev: lyvendia
+Tag: purpose::extension
+Name: YTSpeed
+Author: Lyvendia <spechtluna@gmail.com>
+
+Package: com.iwilldied.ytclassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
+Size: 3022
+Installed-Size: 72
+MD5sum: 96ab7f518b703951b9add165b3f1d2d6
+SHA1: 8a3efa8d5fd580e508f624676e264b15988f7372
+SHA256: fdfeae22432931b33d5706b27e6bacc4ad5a3a6dfc6b2e5773d3c4677495b108
+SHA512: 0b03dbf0bc1ac3f0de8707197fca09d63b86465363565f1d7cafa5bd1909ae0331b94921c2e7e87d08a39be7533b347376d47f796ebfe2a017f6d46caadbee89
+Description: Chất lượng video YTold
+Depiction: hmmm
+Name: YTClassicVideoQuality
+Author: PoomSmart
+
+Package: com.iwilldied.ytseedislike
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Maintainer: iwilldied
+Filename: ./DEB/com.iwilldied.ytseedislike_1.4.0_iphoneos-arm.deb
+Size: 71502
+Installed-Size: 240
+MD5sum: da3f4e981ad2c3839199e273de6e8c7e
+SHA1: 63fafb6f304a44d09854480b82b08136c362d8bd
+SHA256: 1af661d1822001e24044ad26c39fe78b4181e5fe83e86f40950be3000127b3da
+SHA512: 85c34f6614957ed82df853042aab4f43590bd65e310ee91e7c2a4f4ada8c438f9234cb3c64941d468f268ea2c12fb9d49864461780d21d6cd9f0ec36b0d406b8
+Description: Nhìn thấy được lượt đít lai
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: hmmm
+Name: YTSeeDislike
+Author: Lillie, PoomSmart, and kirb
