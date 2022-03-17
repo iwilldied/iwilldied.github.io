@@ -431,10 +431,10 @@ Maintainer: iwilldied
 Filename: ./DEB/com.iwilldied.ytseedislike_1.6.3-1_iphoneos-arm.deb
 Size: 18778
 Installed-Size: 124
-MD5sum: da3f4e981ad2c3839199e273de6e8c7e
-SHA1: 63fafb6f304a44d09854480b82b08136c362d8bd
-SHA256: 1af661d1822001e24044ad26c39fe78b4181e5fe83e86f40950be3000127b3da
-SHA512: 85c34f6614957ed82df853042aab4f43590bd65e310ee91e7c2a4f4ada8c438f9234cb3c64941d468f268ea2c12fb9d49864461780d21d6cd9f0ec36b0d406b8
+MD5sum: 6a3fc96329cd5630532cac7ce910e5f8
+SHA1: 01d6409b6fefee4f0d4cafc2f9952d1f7157a516
+SHA256: ac24bf8a57661db5634ed6a1f24e5568a3dbde0847b8eed0311c2c6eb71b2239
+SHA512: f7ccf39caad0633f138d517c644b68625a4754bed5ca835885a52f367deb7cc71b9d9af4c207a042a1ac662858606c849737af724b14fbcdc10b3077609a1f0e
 Description: Nhìn thấy được lượt đít lai
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
