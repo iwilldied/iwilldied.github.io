@@ -297,7 +297,7 @@ Architecture: iphoneos-arm
 Version: 1.1.26
 Section: Packaging
 Depends: dpkg, uikittools, firmware (>= 9.0)
-Maintainer: iwilldied
+Maintainer: iwilldied <team@getzbra.com>
 Filename: ./DEB/xyz.iwilldied.zebra_1.1.26_iphoneos-arm.deb
 Size: 9539882
 MD5sum: 1e0e02e93c8379e8eb0ee91b085362c1
@@ -307,9 +307,9 @@ SHA512: 4124cfd79a85687112397d2da4495bd21bcf5d7357fc803bb87aa9ee98a6e466d6a219a5
 Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
 Depiction: Zebra Faster Cydia 
 Tag: compatible::9.0-14.8
-Description: Zebra Package Manager
+Description: A Useful Package Manager
 Name: Zebra
-Author: Zebra Team
+Author: Zebra Team <team@getzbra.com>
 Installed-Size: 14828
 
 Package: com.iwilldied.saily
@@ -440,5 +440,5 @@ Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
 Tag: compatible_min::ios11.0
 Depiction: hmmm
-Name: YTSeeDislike
-Author: Lillie, PoomSmart, and kirb
+Name: YtSeeDislike
+Author: PoomSmart and kirb 
