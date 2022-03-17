@@ -294,22 +294,23 @@ Author: ichitaso
 
 Package: xyz.iwilldied.zebra
 Architecture: iphoneos-arm
-Version: 1.1.23
+Version: 1.1.26
 Section: Packaging
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Maintainer: iwilldied
-Filename: ./DEB/xyz.iwilldied.zebra_1.1.23_iphoneos-arm.deb
-Size: 9289662
-MD5sum: 943c8cdd43b3c86d07fe2686f8b9e3e4
-SHA1: 40055ea73a90e732e1b4f2fcd6bbd47ed31dd310
-SHA256: d357c43bca51a23cda36ebe606b28ffeb11cdebc1e99b079984ed84c8d62af3f
-SHA512: cf154dd97018169a4390d551a9591dcda0d1aed9329c7b314a1f2a2b9d3425289328daef72638e6e10836b5d9743df2d88ccdc3984a921c5de61cf0fef339bd9 
+Filename: ./DEB/xyz.iwilldied.zebra_1.1.26_iphoneos-arm.deb
+Size: 9539882
+MD5sum: 1e0e02e93c8379e8eb0ee91b085362c1
+SHA1: 6039e33108207533475c36c90c676405140398db
+SHA256: 7a0c60afaa7aaa43684e22d7983e649e9fef8abe8e52ce429b61470f0e58f41d
+SHA512: 4124cfd79a85687112397d2da4495bd21bcf5d7357fc803bb87aa9ee98a6e466d6a219a587c7c1b5b2922f40f595cd42b421b11aab5fec45b35b30c95b4f53c5 
 Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
 Depiction: Zebra Faster Cydia 
 Tag: compatible::9.0-14.8
 Description: Zebra Package Manager
 Name: Zebra
 Author: Zebra Team
+Installed-Size: 14828
 
 Package: com.iwilldied.saily
 Architecture: iphoneos-arm
@@ -423,19 +424,21 @@ Author: PoomSmart
 
 Package: com.iwilldied.ytseedislike
 Architecture: iphoneos-arm
-Version: 1.4.0
+Version: 1.6.3-1
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.ytseedislike_1.4.0_iphoneos-arm.deb
-Size: 71502
-Installed-Size: 240
+Filename: ./DEB/com.iwilldied.ytseedislike_1.6.3-1_iphoneos-arm.deb
+Size: 18778
+Installed-Size: 124
 MD5sum: da3f4e981ad2c3839199e273de6e8c7e
 SHA1: 63fafb6f304a44d09854480b82b08136c362d8bd
 SHA256: 1af661d1822001e24044ad26c39fe78b4181e5fe83e86f40950be3000127b3da
 SHA512: 85c34f6614957ed82df853042aab4f43590bd65e310ee91e7c2a4f4ada8c438f9234cb3c64941d468f268ea2c12fb9d49864461780d21d6cd9f0ec36b0d406b8
 Description: Nhìn thấy được lượt đít lai
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
+Tag: compatible_min::ios11.0
 Depiction: hmmm
 Name: YTSeeDislike
 Author: Lillie, PoomSmart, and kirb
