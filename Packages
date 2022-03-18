@@ -292,26 +292,6 @@ Name: OTADisabler
 Depiction: hmmm
 Author: ichitaso
 
-Package: xyz.iwilldied.zebra
-Architecture: iphoneos-arm
-Version: 1.1.26
-Section: Packaging
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Maintainer: iwilldied <team@getzbra.com>
-Filename: ./DEB/xyz.iwilldied.zebra_1.1.26_iphoneos-arm.deb
-Size: 9539882
-MD5sum: 1e0e02e93c8379e8eb0ee91b085362c1
-SHA1: 6039e33108207533475c36c90c676405140398db
-SHA256: 7a0c60afaa7aaa43684e22d7983e649e9fef8abe8e52ce429b61470f0e58f41d
-SHA512: 4124cfd79a85687112397d2da4495bd21bcf5d7357fc803bb87aa9ee98a6e466d6a219a587c7c1b5b2922f40f595cd42b421b11aab5fec45b35b30c95b4f53c5 
-Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
-Depiction: Zebra Faster Cydia 
-Tag: compatible::9.0-14.8
-Description: A Useful Package Manager
-Name: Zebra
-Author: Zebra Team <team@getzbra.com>
-Installed-Size: 14828
-
 Package: com.iwilldied.saily
 Architecture: iphoneos-arm
 Version: 2.1-REL-1630256801
@@ -422,23 +402,40 @@ Depiction: hmmm
 Name: YTClassicVideoQuality
 Author: PoomSmart
 
-Package: com.iwilldied.ytseedislike
+Package: com.iwilldied.zebra
+Name: Zebra
 Architecture: iphoneos-arm
-Version: 1.6.3-1
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: A Useful Package Manager
+Maintainer: iwilldied
+Author: Zebra Team
+Section: Packaging
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: hmmm
+Tag: compatible::9.0-14.8
+Version: 1.1.26
+Filename: ./DEB/com.iwilldied.zebra_1.1.26_iphoneos-arm.deb
+Size: 9539864
+MD5sum: 383ed946459eb290edc7710d379a8c5f
+SHA1: 1a5d0756ea378bf7aeb99bbbbc8e5443efe94df8
+SHA256: 2d32b5245722bb5a87d5e29b493b8b94a36056ccd10f35e79f2cab8b7c7dc249
+SHA512: 2f173e170ec11a4f3fcacdd6b0efb18748a07525f4b1779878d3533c77a45a8bf46e75d5ce1197e4176aad478259c20b6f96bbe7cf4e58eecd5e7e287740489f
+
+Package: com.iwilldied.ytseedislike
+Name: YTSeeDislike
+Architecture: iphoneos-arm
+Description: See Dislike
+Maintainer: iwilldied
+Author: PoomSmart and kirb
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.ytseedislike_1.6.3-1_iphoneos-arm.deb
-Size: 18778
-Installed-Size: 124
-MD5sum: 6a3fc96329cd5630532cac7ce910e5f8
-SHA1: 01d6409b6fefee4f0d4cafc2f9952d1f7157a516
-SHA256: ac24bf8a57661db5634ed6a1f24e5568a3dbde0847b8eed0311c2c6eb71b2239
-SHA512: f7ccf39caad0633f138d517c644b68625a4754bed5ca835885a52f367deb7cc71b9d9af4c207a042a1ac662858606c849737af724b14fbcdc10b3077609a1f0e
-Description: Nhìn thấy được lượt đít lai
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
 Tag: compatible_min::ios11.0
-Depiction: hmmm
-Name: YtSeeDislike
-Author: PoomSmart and kirb 
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Version: 1.6.3-1
+Installed-Size: 124
+Filename: ./DEB/com.iwilldied.ytseedislike_1.6.3-1_iphoneos-arm.deb
+Size: 18708
+MD5sum: 71fed708819378fdd9b0f05a175955df
+SHA1: 5e993bd1fe33611668f7f12f5b13431117f994a3
+SHA256: 6e7d0d2e4e6febafa7399c0dd9f73f068e6aaddf99d2eee7ebe23dce5aa3c9d6
+SHA512: 69497ec77054cb43520074f0aeb21764010ad8790013d15fbf6235cc8607fd33454feac4a4f9d26809fc2cfd01fffe115fa2aa6b65d654ea5b46ae60442d9e12
