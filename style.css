@@ -1,4 +1,4 @@
-{
+*{
   margin: 0;
   padding: 0;
   font-family: "Ubuntu", sans-serif;
@@ -16,7 +16,7 @@ body{
 }
 
 .profile-card{
-  width: 400px;
+  width: 500px;
   text-align: center;
   border-radius: 8px;
   overflow: hidden;
@@ -30,7 +30,7 @@ body{
 }
 .card-header{
   background: #888888 ;
-  padding: 60px 40px;
+  padding: 60px 30px;
 }
 
 .pic{
@@ -39,7 +39,7 @@ body{
   background: linear-gradient(135deg, #dc2727, #dc8527, #dcd127, #b2dc27, #5cdc27, #27dca9, #27c3dc, #5f92c3, #3727dc, #a227dc, #dc27cb, #dc275f, #dc2727);
   margin: auto;
   border-radius: 70%;
-  background-size: 240% 240%;
+  background-size: 340% 340%;
   animation: animated-gradient 10s linear infinite;
 }
 @keyframes animated-gradient{
@@ -107,8 +107,8 @@ body{
 
 .pic img{
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
@@ -150,7 +150,7 @@ body{
 
 .contact-btn{
   display: inline-block;
-  padding: 12px 50px;
+  padding: 15px 100px;
   color: #ffffff;
   border: 2px solid #ffffff;
   border-radius: 6px;
@@ -195,9 +195,4 @@ body{
 icon{
   background-color: auto;
   color: blue;
-}
-
-.video{
-  width: 60px;
-  height: 70px;
 }

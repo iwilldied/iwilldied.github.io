@@ -1,4 +1,4 @@
-*{
+{
   margin: 0;
   padding: 0;
   font-family: "Ubuntu", sans-serif;
@@ -30,7 +30,7 @@ body{
 }
 .card-header{
   background: #888888 ;
-  padding: 60px 3 0px;
+  padding: 60px 40px;
 }
 
 .pic{
@@ -195,4 +195,9 @@ body{
 icon{
   background-color: auto;
   color: blue;
+}
+
+.video{
+  width: 60px;
+  height: 70px;
 }
