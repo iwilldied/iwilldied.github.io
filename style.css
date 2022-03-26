@@ -165,7 +165,7 @@ body{
 
 .card-footer{
   background: #cccccc;
-  padding: 60px 10px;
+  padding: 60px 20px;
 }
 
 .numbers{
@@ -192,7 +192,12 @@ body{
   background: #bbb;
 }
 
-icon{
+.icon{
   background-color: auto;
   color: blue;
+}
+
+.audio{
+  width: 5px;
+  height: 7px;
 }
