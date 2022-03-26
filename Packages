@@ -439,3 +439,20 @@ MD5sum: 71fed708819378fdd9b0f05a175955df
 SHA1: 5e993bd1fe33611668f7f12f5b13431117f994a3
 SHA256: 6e7d0d2e4e6febafa7399c0dd9f73f068e6aaddf99d2eee7ebe23dce5aa3c9d6
 SHA512: 69497ec77054cb43520074f0aeb21764010ad8790013d15fbf6235cc8607fd33454feac4a4f9d26809fc2cfd01fffe115fa2aa6b65d654ea5b46ae60442d9e12
+
+Package: com.iwilldied.a8
+Name: Asphalt 8 Mod Menu 34306
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Asphalt 8 Mod Menu by 34306!
+Maintainer: iwilldied
+Author: 34306
+Section: Tweaks
+Version: 6.2.0
+Installed-Size: 276
+Filename: ./DEB/com.iwilldied.a8_6.2.0_iphoneos-arm.deb
+Size: 94290
+MD5sum: 6f494c0c08315ef0df3e9f60fe4d4353
+SHA1: 20b427521373843291fbae6c79f95b764b0edcc9
+SHA256: 3594a4026a38ef14f4421d2d517cca6198e816154ad817a71796500181071ea3
+SHA512: 21913768cec4145f39b27ee2021c520cebfe212086c8bef11144a14001a7d671d2c4816c8ecb443182986d06bdb3192af623908bc93e83f8370432197d9748af
