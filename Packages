@@ -30,52 +30,6 @@ Description: DisableYoutubeUpdates
 Name: YTDisableUpdates
 Author: Patrick_Griffin
 
-Package: com.iwilldied.fontunineue
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontunineue_1.0_iphoneos-arm.deb
-Size: 64755962
-MD5sum: 7bff3c432b568fe37d2159880e45a0db
-SHA1: ef95982f6a1251ec1a53de29f9e6b2413327c03b
-SHA256: 0dc98afae576ee617449f599a1d9c4aa14a73ed1775b73f45ea9425b9a9b3b2e
-SHA512: e2ea5290bfae8bce0db5b98742dfa03b4a3b728e79bcbeda0ef60322cf5f191c81b28340255fdebaa99fafa3f1a17f194929730decdbdda41f936c5d06443651
-Description: Font Uni Neue (iOS10-14)
-Name: Uni Neue (iOS10-14)
-Author: Evelyn (ev_ynw)
-
-Package: net.iwilldied.cahighfps
-Architecture: iphoneos-arm
-Version: 1.1.0
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
-Maintainer: iwilldied
-Filename: ./DEB/net.kenhtao.cahighfps_1.1.deb
-Size: 14002
-MD5sum: cb46387e9e9b81629796d74661d4a20b
-SHA1: 889288cab077239e1555d635e265b611a03b82f4
-SHA256: f663d9877d5e6007a898e03db20f0d9a699c41e085ded34557c4a8cd04fb0559
-SHA512: f16d40408c1f3381dc81ddd3e92233a02f08424c5283b9f83d8b22c2f7905c906cb065c5b1e1a10e01ab4da23bd6cc39674e3f0db210b7e3240a73e20373d754
-Description: Kick ứng dụng sử dụng FPS cao nhất.
-Name: CAHighFPS
-Author: PoomSmart
-
-Package: com.iwilldied.newueartimescolor
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Widgets
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.newueartimescolor_0.1_iphoneos-arm.deb
-Size: 14705940
-MD5sum: 1b6d54f295080d9921de7a8da6444eee
-SHA1: 2928cb54661f313493c783d134481e8c6c988c59
-SHA256: 7f875a9cb3656e06c1a6756b02f0607ac0d6ad7314fb50cb314718c71e6a1ed6
-SHA512: eaebbf81c63126a53633f8cbaea37085a4308159a9f8a3b7f7c7508a000ec1035cd0d02308f6894534825a8e951abfe81b412e8b47382018aa0ef3e9fa6df3f7
-Description: Xenhtml Widget
-Name: NewYear Time Color
-Author: @Tqm-mos
-
 Package: com.iwilldied.spoti++
 Architecture: iphoneos-arm
 Version: 1.7.0
@@ -92,91 +46,6 @@ Description: Spotify Premium
 Name: Spoti++
 Depiction: Prespotify
 Author: Julioverne
-
-Package: com.iwilldied.neonboard
-Name: NeonBoard
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Architecture: iphoneos-arm
-Description: kick hoạt chủ đề 7-14
-Maintainer: iwilldied
-Installed-Size: 2320
-Size:429508
-Author: ArtikusHG
-Section: Tweaks
-Replaces: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Provides: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Conflicts: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Version: 1.0.15
-MD5sum: 89bba17d921a77770d655fe1cc4e275d
-SHA1: b2f8ed015deef11a5a615b38e6fc6b56b85a3bf8
-SHA256: 6d5649bcb382237b1540e03e11d97e4adfa0d9987a75b279c920143b05c21278
-SHA512: 7e3619b9efd0ea16bd0f476cddfeab4292bea4e0b9df3f69de794196c69c3b6160edbee3e1b499ba753da48a6374f446810848aa70177cb5f217817fa88a39c9
-Installed-Size: 2320
-Depiction: kick hoạt theme
-
-Package: com.iwilldied.fontedgy1012
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontedgy1012_1.0_iphoneos-arm.deb
-Size: 15817320
-MD5sum: db10d1a25118e933b84440a438c81f0c
-SHA1: aeb10f0457f2931e0a0b59a49412c30d4361b882
-SHA256: 56725d29c85679ddb801c67d7e5c933712309a6c220643b913b97e7e2d78a68f
-SHA512: bc0775eb51442b1952f5a8d2a7f3cfc396e561b3097888265c1336b8ab56a5c316bcb6cdc083de03e7dfa95bd0fe4798c84a0bfd542fdb7d1c202f8644d3d696
-Description: Phông chữ Edgy (iOS10-12)
-Name: Edgy (iOS10-12)
-Depiction: Fonts edgy source tqm-mos
-Author: Alex (@Alexman1979)
-
-Package: com.iwilldied.fontdream1012
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontdream1012_1.0_iphoneos-arm.deb
-Size: 14932962
-MD5sum: c53db67a055500553683bd749d8670e2
-SHA1: 11af45ef5bfe646c70337b066667d8762e392ecd
-SHA256: 9be973bb014bb3daae01ee1d7aa42ab7e038670f04030b0c622ad2028e6aaf47
-SHA512: 6428fd8c7327b061b659bd00bd54343a192d48b806fc487a4db2caaf86990b4c6e1d99186e336465bb28d7219c117a74e105502818f7f3add9a1f9b2d2650359
-Description: Phông chữ Dream (iOS10-12)
-Name: Dream (iOS10-12)
-Depiction: Font dream source tqm-mos
-Author: Alex (@Alexman1979)
-
-Package: com.iwilldied.fontbong1012
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontbong1012_1.0_iphoneos-arm.deb
-Size: 16315848
-MD5sum: 711013d693dc7204b295515e26d4d850
-SHA1: a9fe228bc9d9ccf00d5b8c945532a609f74010fd
-SHA256: 2a24459f8a517bc58aba89dce6ae8aaf4b39df4859a41f65c288588bab78ef59
-SHA512: 305955981fbc6f454237f72c6ee404b4d3ef365bb53fe0790f5ef42ec59013905b79d8d39f003e80dde181ca5444476cbe02c72d83ca6d52a9033cc15316d95e 
-Description: Phông chữ Bông (iOS10-12)
-Name: Bông (iOS10-12)
-Depiction: Font bông source tqm-mos
-Author: Alex (@Alexman1979)
-
-Package: com.iwilldied.fontgooglesans1012
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontgooglesans1012_1.0_iphoneos-arm.deb
-Size: 19960038
-MD5sum: f1b7f80dc5454bfbf42c60fa8d435781
-SHA1: c73ce51d47239e7bc55d71afb1ceef2c16c160b1
-SHA256: c1324264aa0e0d5490fa480535325c66843cb3877985ee2918e961d8f0061b93
-SHA512: 18b2e61b731b9141ea52d97a0d180114cfca65c37853971ca452bec654acfc8a2d17cad04a38b016c4a237b3594af0ebe45b8ff0e89367e3fe8405eb5f7b695b 
-Description: Phông chữ Google Sans (iOS10-12)
-Name: Google Sans (iOS10-12)
-Depiction: Fonts source tqm-mos
-Author: Alex (@Alexman1979)
 
 Package: com.iwilldied.ytadblocked
 Architecture: iphoneos-arm
@@ -195,156 +64,6 @@ Description: Youtube AdBlock tweak!
 Depiction: YTAdblocked
 Name: YTAdBlocked
 Author: Atebitsy
-
-Package: com.iwilldied.nokiaprokeyled
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Widgets
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.nokiaprokeyled_1.1_iphoneos-arm.deb
-Size: 1977786
-MD5sum: 9ee55e57fd642763ac0a7a4ee3d0373e
-SHA1: 53140b6e523870e39ae50d5e4a8fdf24e43f15f9
-SHA256: 102341711a816d054c6b26745374a16caa48f03cc00ab9aebe53d75af43d1132
-SHA512: 24d768120a85d71c92e0c3b3d94d3e411f9798c6fec7488e208033130a4a957dd464b6a4a221ade67d6d590e4c728fc8a7e2c70822332236a06a0e5bb75b6cca
-Description: Xenhtml Widgets
-Name: LS Nokia key Led tqm-mos
-Author: @ongcenh
-
-Package: com.iwilldied.sbnewyear
-Architecture: iphoneos-arm
-Version: 0.3
-Section: Widgets
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.sbnewyear_0.3_iphoneos-arm.deb
-Size: 5800634
-MD5sum: 4562297392bf5163b29641ce28d7c6aa
-SHA1: b407674170ad2d26cbb212648d9b9759b40b920a
-SHA256: 7f4eb7a50d0ad71fbddfdb9b1cf86a2f69ca5b069792f1923ffc497434f69cc1
-SHA512: bcdc1ab636f9f2d8ff99725917e2d23075b11319c2751250bc8b2ffa21a6f0c134467fe68490f96fab936130a97e59fac8915be1c0284ddc7e6773d090a2aa51
-Description: Xenhtml Widget
-Depiction: XenHTML Ưitgets By TQM-MOS
-Name: SB NewYear TQM
-Author: @ongcenh <anhminh311105@gmail.com>
-
-Package: com.iwilldied.xenhtml
-Architecture: iphoneos-arm
-Version: 2.0.1
-Section: Tweaks
-Depends: mobilesubstrate
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.xenhtml_2.0.1_iphoneos-arm.deb
-Size: 8254090
-MD5sum: fe1917dc5770413175b158c971d04ef7
-SHA1: c30bb96351b426f000294423f5647ef7318c042b
-SHA256: ed1fa410d067b3e880c2a4c912196c75f388a2d951fed8dfad027e9c8a6cdebe
-SHA512: dadefdee0b5119e5fa6ba1016a8b0c27e85ea16abc7b0e93d6f8d1c09d17474f8b554dce1f531d3e94c3f146347c6c668cd2765fcf8297e9459f14b4afd868e3
-Description: Kick hoạt animation LS,HS Dịch bởi HĐP
-Name: XenHTML
-Author: Matt Clarke
-
-Package: com.iwilldied.lsnewyeartimes2
-Architecture: iphoneos-arm
-Version: 0.2
-Section: Widgets
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.lsnewyeartimes2_0.2_iphoneos-arm.deb
-Size: 17268070
-MD5sum: ae2bedde18419620630b6b3064c185c9
-SHA1: 2790d81af58e0e1bd879218e8410d78e8bd8c81e
-SHA256: d697356056b061bcaa6d9c74def9f9e30a7a3817907930f32a2e6d75717ef056
-SHA512: d675cc1d0d7bc747890214850ea3de21ac907e5202c2438b52d5eacadb2a4d91977a8075f5569f6b86050d77c0b636de12ecb7ae11ba8498ebd58e075aa9e817
-Description: Xenhtml Widget
-Depiction: XenHTML Witgets By TQM-MOS
-Name: LS NewYear Times 2 TQM
-Author: @ongcenh <anhminh311105@gmail.com>
-
-Package: com.iwilldied.fontmemony1012
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Fonts
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.fontmemony1012_1.0_iphoneos-arm.deb
-Size: 11752928
-MD5sum: a10b2fcee99521c11630c199925c3401
-SHA1: 8db8c328d8ece9218a3a54961c1f53a239178c92
-SHA256: 9807990966aacab4be8e696176bb9cc07663bb9eae9dc25dffd30b81a575cb1b
-SHA512: 8387457313e9d27e0306931b8f252d18536aab5d2ad9c69f4a2878cf6e3ab2012ce1b99e2697ceb7992bdcdeea0eaaccd18ab6e3cc6ddc1c6165260dd2cf4265 
-Description: Phông chữ Memony (iOS10-12)
-Name: Memony (iOS10-12)
-Depiction: Fonts source tqm-mos
-Author: @ongcenh (anhminh311105@gmail.com)
-
-Package: com.iwilldied.otadisabler
-Architecture: iphoneos-arm
-Version: 0.1-9
-Section: System
-Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.otadisabler_0.1-9_iphoneos-arm.deb
-Size: 34980
-MD5sum: 43231510823a0cda4df70a15e436bbcc
-SHA1: e9db3cb726361126bf5a7153a1247e3381e4400f
-SHA256: a014ace29b82c840d30417fb1b9996a2997778f81e7664b66b7864d6f7c607f4
-SHA512: 5f62f543b4a2b425457add37e6cd4f7afed81a08e876b0578dee8baa7f48a31f52bcd3658e7e80dff155664e55e1b8442e70d4a2601a65d4bda3888beb777d89 
-Description: Xóa và tắt thông báo OTA
-Name: OTADisabler
-Depiction: hmmm
-Author: ichitaso
-
-Package: com.iwilldied.saily
-Architecture: iphoneos-arm
-Version: 2.1-REL-1630256801
-Section: Packaging
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.saily_2.1-REL-1630256801_iphoneos-arm.deb
-Size: 11444362
-MD5sum: f2d7002862999ed2d61e44f8a27a370b
-SHA1: 57c0aa7deebe9048469ec4eb2e8a14002ec9ad7d
-SHA256: e8b8f841d98791cf358c497418c9dbadff31b0b080c278187cfc974bc2b15776
-SHA512: c78ba84083f8ccc7bdedcbeb6b2e7f0040cbebe1f6ac021d0fe1325a09b5aaf749605d4346baf9d9ea649e3d49a38a10dad3311ca82e3dc6963b0f562a7c3a08 
-Depiction: hmmm
-Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
-Description: Saily Faster Cydia
-Name: Saily
-Author: Saily Team <master@233owo.com>
-
-Package: me.iwilldied.installer
-Architecture: iphoneos-arm
-Version: 5.1-85
-Section: Packaging
-Depends: firmware (>= 11.0)
-Maintainer: iwilldied
-Filename: ./DEB/me.iwilldied.installer_5.1-85_iphoneos-arm.deb
-Size: 11857212
-MD5sum: 5079062e14c6d9d7db2108bc56e025bd
-SHA1: e2aa51923653feca7f28065ea672dc22f9d20773
-SHA256: eaee093fffc154f3fadd9baa48a7656de53f23d272cd5d6b67cc7dd6a8c11437
-SHA512: ce58c0bff36e884fdb008a3bedcb9ef4df3bbe2f5f7758bcec23762bbc7ead168e24d45f6ea7a0f4cab419a6439412f91ba26077b71445cb85e46d1d7434813c 
-Depiction: hmmm
-Icon: https://synnygr.dev/AppTapp/installer_icon.png
-Description: Installer quản lý Packages
-Name: Installer
-Author: Author: AppTapp <support@apptapp.me>
-
-Package: com.iwilldied.ytdescriptionCopy
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
-Maintainer: iwilldied
-Filename: ./DEB/com.iwilldied.ytdescriptionCopy_1.1_iphoneos-arm.deb
-Size: 24886
-Installed-Size: 275
-MD5sum: 707c9bcad546884d85095f222ccb6a94
-SHA1: 287bb31a60f2773e3bb8ea90443e85603872213d
-SHA256: 77786380ffcf99741324da9d10b4ece44906e0b18bf80ee65f2291564adf1ade
-SHA512: ca5d92d736124d5549309934fd550f93e75a24caddf98795e18015047813cc818566a4ab8915509f0c3c685e7ccae73b090b929b2500a9b65fb96a09a74b6381
-Description: Copy youtube descriptoin
-Depiction: hmmm
-Name: YTDescriptionCopy
-Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 
 Package: com.iwilldied.disableuglysuggestions
 Architecture: iphoneos-arm
@@ -402,44 +121,6 @@ Depiction: hmmm
 Name: YTClassicVideoQuality
 Author: PoomSmart
 
-Package: com.iwilldied.zebra
-Name: Zebra
-Architecture: iphoneos-arm
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Description: A Useful Package Manager
-Maintainer: iwilldied
-Author: Zebra Team
-Section: Packaging
-Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
-Depiction: hmmm
-Tag: compatible::9.0-14.8
-Version: 1.1.26
-Filename: ./DEB/com.iwilldied.zebra_1.1.26_iphoneos-arm.deb
-Size: 9539864
-MD5sum: 383ed946459eb290edc7710d379a8c5f
-SHA1: 1a5d0756ea378bf7aeb99bbbbc8e5443efe94df8
-SHA256: 2d32b5245722bb5a87d5e29b493b8b94a36056ccd10f35e79f2cab8b7c7dc249
-SHA512: 2f173e170ec11a4f3fcacdd6b0efb18748a07525f4b1779878d3533c77a45a8bf46e75d5ce1197e4176aad478259c20b6f96bbe7cf4e58eecd5e7e287740489f
-
-Package: com.iwilldied.ytseedislike
-Name: YTSeeDislike
-Architecture: iphoneos-arm
-Description: See Dislike
-Maintainer: iwilldied
-Author: PoomSmart and kirb
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Tag: compatible_min::ios11.0
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Version: 1.6.3-1
-Installed-Size: 124
-Filename: ./DEB/com.iwilldied.ytseedislike_1.6.3-1_iphoneos-arm.deb
-Size: 18708
-MD5sum: 71fed708819378fdd9b0f05a175955df
-SHA1: 5e993bd1fe33611668f7f12f5b13431117f994a3
-SHA256: 6e7d0d2e4e6febafa7399c0dd9f73f068e6aaddf99d2eee7ebe23dce5aa3c9d6
-SHA512: 69497ec77054cb43520074f0aeb21764010ad8790013d15fbf6235cc8607fd33454feac4a4f9d26809fc2cfd01fffe115fa2aa6b65d654ea5b46ae60442d9e12
-
 Package: com.iwilldied.a8
 Name: Asphalt 8 Mod Menu 34306
 Depends: mobilesubstrate
@@ -456,3 +137,20 @@ MD5sum: 6f494c0c08315ef0df3e9f60fe4d4353
 SHA1: 20b427521373843291fbae6c79f95b764b0edcc9
 SHA256: 3594a4026a38ef14f4421d2d517cca6198e816154ad817a71796500181071ea3
 SHA512: 21913768cec4145f39b27ee2021c520cebfe212086c8bef11144a14001a7d671d2c4816c8ecb443182986d06bdb3192af623908bc93e83f8370432197d9748af
+
+Package: com.iwilldied.a8p
+Name: Asphalt 8 Plus Arcade 34306
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Asphalt 8 Plus (Arcade version) Mod Menu by 34306!
+Maintainer: iwilldied
+Author: 34306
+Section: Tweaks
+Version: 1.2.0
+Installed-Size: 276
+Filename: ./DEB/com.iwilldied.a8p_1.2.0_iphoneos-arm.deb
+Size: 94288
+MD5sum: 965974baa5bb5b0caa3b0616541295d9
+SHA1: fad4c278f5ac9146b3629d2a24be9d971526a04f
+SHA256: 7835d211d290bcc30420a51545e38b9633afd9644858ebc48faa5df552b017cf
+SHA512: f956c8455263f5068292420c7e3d1d8176fcd7b61e35c04708e7c2386b8e61377e52099d907428a9a9cc61b5695dee1f24304801c8c1449021cb998d2f003114
