@@ -71,13 +71,13 @@ header a, a:visited {
     top: 21px;
 }
 .cover {
-    background: transparent url(data/icon.png) no-repeat scroll center top;
+    background: transparent url(data/icon.png) no-repeat center ;
     border-radius: 5px 5px 5px 5px;
-    height: 94px;
+    height: 100px;
     left: 20px;
     position: absolute;
-    top: 20px;
-    width: 94px;
+    top: 18px;
+    width: 100px;
 }
 .controls {
     cursor: pointer;
