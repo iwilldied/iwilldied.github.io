@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "BeVietnam";
+  src: url("../fonts/BeVietnam-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeVietnam";
+  src: url("../fonts/BeVietnam-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+
+body{
+  width: 100%;
+  text-align: center;
+  font-family: BeVietnam;
+  overflow-x: hidden;
+  align-items: center;
+  justify-content: center;
+}
+
+#top {
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
+  align-items: center;
+  border-bottom: 5px solid #c2c2c2;
+}
+
+#top img{
+  align-items: center;
+  width: 160px;
+  height: 160px;
+}
+
+#name{
+  font-size: 1.875rem;
+  font-weight: bold;
+} 
+
+#iconname{
+  font-size: 1.3rem;
+
+}
+
+#nd{
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+.body{
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  --spacing: 20px;
+  --columns: 6;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: calc(-1 * var(--spacing));
+}
+
+@media (max-width: 1023px) {
+  .body {
+    --columns: 4;
+  }
+}
+@media (max-width: 767px) {
+  .body {
+    --spacing: 15px;
+    --columns: 3;
+  }
+}
+
+#iconbox{
+  border-radius: 20px;
+  overflow: hidden;
+  width: calc(calc(100% / var(--columns)) - var(--spacing));
+  margin-left: var(--spacing);
+  margin-bottom: var(--spacing);
+  display: flex;
+  flex-direction: column;
+}
+
+#iconimg img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+button{
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+.icon{
+  background-color: white;
+  color: blue;
+}
