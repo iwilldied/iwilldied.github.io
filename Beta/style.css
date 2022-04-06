@@ -18,19 +18,18 @@ body{
     box-shadow: 0px 0px 10px 4px blueviolet;
     z-index: 1;
 }
-.name{
-    color: wheat;
-    text-align: center;
-    margin: 12px auto 0px auto;
-    font-size: 40px;
-    border: 0px solid skyblue;
-    width: 400px;
-    text-align: center;
-    border-radius: 5px;
+.avatar{
+    display: block;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 10% 100%;
+    margin: 5px auto 0px auto;
 
-    font-family: Arial, Helvetica, sans-serif;
-}
-.school{
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 4px blueviolet;
+    z-index: 1;
+}.school{
     color: wheat;
     text-align: center;
     margin: 0px auto 0px auto;
