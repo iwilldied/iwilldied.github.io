@@ -14,6 +14,18 @@
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
+    <style>
+      body {
+        padding: center;
+        background-color: black;
+        color: white;
+        font-size: 20px;
+      }
+      .dark-mode {
+        background-color: white;
+        color: black;
+      }
+    </style>
   <center>
     <div class="example">
 
@@ -45,6 +57,16 @@
             <li audiourl="no name.mp3" cover=".png" artist="HW">10_NoName</li>
         </ul>
     </div>
+</center>
+ <center><div>
+      <button onclick="darkMode()">☀</button>
+    </div>
+    <script>
+      function darkMode() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+      }
+    </script>
 </center>
 </div>
 </body>
