@@ -189,20 +189,20 @@ SHA1: 1e37bbdad089a224af03f7543f9c808e11c69b74
 SHA256: 36ca4a04b67f8787157cfce6934f0e6674389f679e431b72ff440a640b0f95cf
 SHA512: 0bf1fd379126adbc8c78f8e3e72fda69fca70bd2d35747ab7b5dc87a41d889645f0b401f0316c15415deca40298f19326a400f3263fb3a508a1886878bfc66e2
 
-Package: com.otherword.cuongquyt
-Name: OtherWord Mod Menu v1.11.5
+Package: com.otherwoldlegend.cuongsino
+Name: OtherWorld legends Mod
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: OtherWord  Mod Menu by Cuong Sino!
+Description: By Cuong Sino Mod Menu by Cuong Sino!
 Maintainer: iwilldied
-Author: Cuong quyt
+Author: Cuong Sino
 Section: Tweaks
 Homepage: 
-Version: 1.11.5
-Installed-Size: 520
-Filename: ./DEB/com.otherword.cuongquyt_1.11.5_iphoneos-arm.deb
-Size: 284326
-MD5sum: b4d4374a8e3520b0b91bceb5279ba8ea
-SHA1: a7d55bc788c17497ed3e1632865f048b8d51953c
-SHA256: e5921fcd2d04de5776a21f9035c16d34b1fc68acf366879e30b8c6bfaf61bd3b
-SHA512: f1b1e5d469e91fd263ab1a6cc7fb704a9f80db1a75d0efcad78425f6c585407f66bc1710446d392e57b0116fe4175951a0bb6a76a824db9a55fe04fd4e8f77da
+Version: 1.12.7
+Installed-Size: 296
+Filename: ./DEB/com.otherwoldlegend.cuongsino_1.12.7_iphoneos-arm.deb
+Size: 106370
+MD5sum: f2dd89d44dba9fff18b84615edd487d0
+SHA1: 4f073049a7c25555a0ed04c87a88565822378b1d
+SHA256: 9b0204ce6471c3232644711baa6216c9c17b62907f4743f6b851df547b56c697
+SHA512: 6dcf680756a74b95bfa14c3b8fd491ac7f9f2e7d6c34ca0ab135468d9398604668418d697abb917742f207e1386fba998e4d734cb589bf96cde405713d835ee2
