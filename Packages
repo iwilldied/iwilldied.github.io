@@ -206,3 +206,37 @@ MD5sum: f2dd89d44dba9fff18b84615edd487d0
 SHA1: 4f073049a7c25555a0ed04c87a88565822378b1d
 SHA256: 9b0204ce6471c3232644711baa6216c9c17b62907f4743f6b851df547b56c697
 SHA512: 6dcf680756a74b95bfa14c3b8fd491ac7f9f2e7d6c34ca0ab135468d9398604668418d697abb917742f207e1386fba998e4d734cb589bf96cde405713d835ee2
+
+Package: com.iwilldied.spoti++
+Name: Spoti++
+Author: julioverne
+Version: 1.8
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Maintainer: iwilldied
+Section: Tweaks
+Depiction: Prespotify
+Filename: ./DEB/com.iwilldied.spoti++_1.8_iphoneos-arm.deb
+Size: 209824
+MD5sum: 7cd59b4293b3729c39cb5e6d6856c8bd
+SHA1: f25d0a8adcff66384a2d5f5b00678e29b3335860
+SHA256: 4dfdf16ff1afefad888316f0d103a345c9400a7835eca10d49f64d23a447207b
+SHA512: e38ee25b92b00b51447a0f7c3776633c69aff6fb1190cde55d10f9ecb4e1ec0ad4faebeef09e5d679d24ccbabe15276a7f2e2b3014987c15339239c537a18a09
+
+Package: com.iwilldied.youpip
+Name: YouPiP
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Architecture: iphoneos-arm
+Description: Enable native PiP in YouTube app.
+Maintainer: iwilldied
+Author: PoomSmart
+Section: Tweaks
+Version: 1.7.9
+Installed-Size: 252
+Filename: ./DEB/com.iwilldied.youpip_1.7.9_iphoneos-arm.deb
+Size: 30484
+MD5sum: 6909a576141ec27caead6a1fca523c1e
+SHA1: ba94c367452938b05be239c584648d0745d4ddfe
+SHA256: 529d12349c24e405e76e4f59c6db1e62af1543d09ae88c43df212dfdc10a6206
+SHA512: f28db1f4dce668c3cd098faa259c0a9d46183b7964fb6785fe791dbd8cfeab3e483ae4823bd4c4dcb486062deaf111bcf4a5407132dcb1cddb1a2fa4ab1d15bb
