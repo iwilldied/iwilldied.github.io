@@ -240,3 +240,21 @@ MD5sum: 6909a576141ec27caead6a1fca523c1e
 SHA1: ba94c367452938b05be239c584648d0745d4ddfe
 SHA256: 529d12349c24e405e76e4f59c6db1e62af1543d09ae88c43df212dfdc10a6206
 SHA512: f28db1f4dce668c3cd098faa259c0a9d46183b7964fb6785fe791dbd8cfeab3e483ae4823bd4c4dcb486062deaf111bcf4a5407132dcb1cddb1a2fa4ab1d15bb
+
+Package: com.iwilldied.YTReturnDislike
+Version: 1.6.5
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: iwilldied
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 119
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: YTReturnDislike
+Description: Bring Back Dislikes On YouTube
+Tag: compatible_min::ios11.0
+Filename: ./DEB/com.iwilldied.YTReturnDislike_1.6.5_iphoneos-arm.deb
+Size: 17156
+MD5sum: 0132d7588e3f22c8e6315cfcf1f94159
+SHA1: 5247e77fe189631fdb009058020d9fb08937b731
+SHA256: 50cc7eda587687f442c51bf69b3f6d6cc32a98f4f604c2031621cadbf25f9b78
+SHA512: 9507a857331cc9e8b180fa0a49c6680c281d56eeebbe9e73685ac395d902de83150f0dc7f25c20c87e8994a6e211c95987bd13643b920ab69549e5f987756540
