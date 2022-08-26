@@ -128,15 +128,15 @@ Architecture: iphoneos-arm
 Description: Asphalt 8 Mod Menu by 34306!
 Maintainer: iwilldied
 Author: 34306
-Section: Tweaks
+Section: Hack Game
 Version: 6.2.0
 Installed-Size: 276
 Filename: ./DEB/com.iwilldied.a8_6.2.0_iphoneos-arm.deb
-Size: 94290
-MD5sum: 6f494c0c08315ef0df3e9f60fe4d4353
-SHA1: 20b427521373843291fbae6c79f95b764b0edcc9
-SHA256: 3594a4026a38ef14f4421d2d517cca6198e816154ad817a71796500181071ea3
-SHA512: 21913768cec4145f39b27ee2021c520cebfe212086c8bef11144a14001a7d671d2c4816c8ecb443182986d06bdb3192af623908bc93e83f8370432197d9748af
+Size: 82438
+MD5sum: 496d36179b42ca4c9ff5c86126d80384
+SHA1: bb3e79194bcdc2806685195503d4ea65197140c4
+SHA256: d06f6d83ea214f53eaf3645f1be070ab0a3089bcc65e2ee7e82f2b39a83e7e9c
+SHA512: 8a66b60b163b6ca01f2401a12c1f8db3bd0dac652d4b3d797ff211bdda32b3b8942d576d91d1f1f4120739b778ba43b670dfd7662f9c05096587875593cc8670
 
 Package: com.iwilldied.a8p
 Name: Asphalt 8 Plus Arcade 34306
@@ -145,15 +145,15 @@ Architecture: iphoneos-arm
 Description: Asphalt 8 Plus (Arcade version) Mod Menu by 34306!
 Maintainer: iwilldied
 Author: 34306
-Section: Tweaks
+Section: Hack Game
 Version: 1.2.0
 Installed-Size: 276
 Filename: ./DEB/com.iwilldied.a8p_1.2.0_iphoneos-arm.deb
-Size: 94288
-MD5sum: 965974baa5bb5b0caa3b0616541295d9
-SHA1: fad4c278f5ac9146b3629d2a24be9d971526a04f
-SHA256: 7835d211d290bcc30420a51545e38b9633afd9644858ebc48faa5df552b017cf
-SHA512: f956c8455263f5068292420c7e3d1d8176fcd7b61e35c04708e7c2386b8e61377e52099d907428a9a9cc61b5695dee1f24304801c8c1449021cb998d2f003114
+Size: 82494
+MD5sum: 58cbba0b16a880f3027c002a020cf37c
+SHA1: ea48d1cb798dfeec77e6e7a6da493456cd20862d
+SHA256: 5488afa408e75865f4c99e28b8813d550b40dd226b637b6d68f34e133f280a1b
+SHA512: f485a8b95d3bcdd168c221ef11e2dd767bbc86e0ce501321fec3a9f0041f2c55b289e815b3830a7900bd6f401471b6215307894008085ed5d867a57a7ad88c28
 
 Package: com.deadcells.mobile
 Name: DeadCells Mod Menu V2.7.8
@@ -162,15 +162,15 @@ Architecture: iphoneos-arm
 Description: DeadCells Mod Menu by Ngọc Bằng
 Maintainer: iwilldied
 Author: Ngọc Bằng
-Section: Tweaks
+Section: Hack Game
 Version: 2.7.8
 Installed-Size: 304
 Filename: ./DEB/com.deadcells.mobile_2.7.8_iphoneos-arm.deb
-Size: 109110
-MD5sum: ed140a65568c5fd90acbc9f52f429b12
-SHA1: 466cd14873913c54df931a90a6a15538fe740adc
-SHA256: c085918a806710ca801dede3cecf660d3c8e58bfc48ba2c3f6a213bf085b4f9c
-SHA512: f69e1d0657ecde23cad139d92baa0c6c9560420bf4722d5d7f59abc686bd50cb6d04300f305db193f2f73626b0f6746e98ffc765812a96c3ba0886536247a8be
+Size: 95942
+MD5sum: 178be0625422a91dacee05aec830cf9e
+SHA1: b939768c7346e098d46d0b06b036220031f2df5f
+SHA256: bd3f82c83c79df63cb5dc062cb382b18ca47dea4bf28be369dd5e98098bc275b
+SHA512: 6fafd66bca418c70b3da4e9ae8ea60799e2a658bf0fa93a7035a56b16631b69a0f367250dbea800b932b40948eedc35e99cbc9b43c352d8105d1df6e9c0a27e2
 
 Package: com.pvz.mobile
 Name: PvZ1 Mod Menu
@@ -179,15 +179,15 @@ Architecture: iphoneos-arm
 Description: PvZ Mod Menu by Mobile User!
 Maintainer: iwilldied
 Author: Ngọc Bằng
-Section: Tweaks
+Section: Hack Game
 Version: 3.2.0
 Installed-Size: 320
 Filename: ./DEB/com.pvz.mobile_3.2.0_iphoneos-arm.deb
-Size: 109426
-MD5sum: 1ad928ba83e35105e1f23126a3fb6ed7
-SHA1: 1e37bbdad089a224af03f7543f9c808e11c69b74
-SHA256: 36ca4a04b67f8787157cfce6934f0e6674389f679e431b72ff440a640b0f95cf
-SHA512: 0bf1fd379126adbc8c78f8e3e72fda69fca70bd2d35747ab7b5dc87a41d889645f0b401f0316c15415deca40298f19326a400f3263fb3a508a1886878bfc66e2
+Size: 95512
+MD5sum: 068e998bbde88ba0fe61f2427540a421
+SHA1: bdd08b0c474d38c3e6a1824a8418177611db1501
+SHA256: fee0f7fa7b84d55115cfb47b20608dad7083eed8bd81080d42bcddd6c688b2c5
+SHA512: 54f895cf8416a9e6d6219a810d36e19a3ac2be7ebaadc858a028140d94778224c8bcb509388ffdc8722ffd175cedee58d49d99e4e0711615621a3ac52d0a5244
 
 Package: com.otherwoldlegend.cuongsino
 Name: OtherWorld legends Mod
@@ -196,16 +196,16 @@ Architecture: iphoneos-arm
 Description: By Cuong Sino Mod Menu by Cuong Sino!
 Maintainer: iwilldied
 Author: Cuong Sino
-Section: Tweaks
+Section: Hack Game
 Homepage: 
 Version: 1.12.7
 Installed-Size: 296
 Filename: ./DEB/com.otherwoldlegend.cuongsino_1.12.7_iphoneos-arm.deb
-Size: 106370
-MD5sum: f2dd89d44dba9fff18b84615edd487d0
-SHA1: 4f073049a7c25555a0ed04c87a88565822378b1d
-SHA256: 9b0204ce6471c3232644711baa6216c9c17b62907f4743f6b851df547b56c697
-SHA512: 6dcf680756a74b95bfa14c3b8fd491ac7f9f2e7d6c34ca0ab135468d9398604668418d697abb917742f207e1386fba998e4d734cb589bf96cde405713d835ee2
+Size: 93904
+MD5sum: 66b86194559861b9e00484dd68e3b84e
+SHA1: 135509c1ac903ebf17012c29b0030781d4662e72
+SHA256: b1099228e21ce4d0d1f75e5ab612a7c281ea65f9e4eb0aa081aa94ae1ad61751
+SHA512: 7fd1dda2b7ab33c2cfaf1c763211bf73fa52917ff6c2f23e966efd72ca2dc4d67b7b1e024438e9d78ea0f431ece96a9912517c1a716450e4e095fb044a3a84ee
 
 Package: com.iwilldied.spoti++
 Name: Spoti++
