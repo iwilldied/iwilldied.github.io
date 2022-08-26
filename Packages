@@ -258,3 +258,20 @@ MD5sum: 0132d7588e3f22c8e6315cfcf1f94159
 SHA1: 5247e77fe189631fdb009058020d9fb08937b731
 SHA256: 50cc7eda587687f442c51bf69b3f6d6cc32a98f4f604c2031621cadbf25f9b78
 SHA512: 9507a857331cc9e8b180fa0a49c6680c281d56eeebbe9e73685ac395d902de83150f0dc7f25c20c87e8994a6e211c95987bd13643b920ab69549e5f987756540
+
+Package: com.iwilldied.shadowofdead
+Name: Shadow of Dead HACK
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Menu Hack Free by VinhTran
+Maintainer: iwilldied
+Author: Vinh Dep Trai
+Section: Hack Game
+Version: 4.0.0
+Installed-Size: 508
+Filename: ./DEB/com.iwilldied.shadowofdead_4.0.0_iphoneos-arm.deb
+Size: 254852
+MD5sum: ffa0a9127f98dca00c824427af644588
+SHA1: dd1182acc392663c74bb6a0042b62f237bbbb634
+SHA256: d4b74d298801c336f087ea036c1598274feac5e1dc71659abd5193de95a04354
+SHA512:1d9bed92ad72c1dfc9702a02c845bffa1e3a09942020276e9e59bb16c3a2ac3644e31d8eef95ba21c182673904492157212c7119de9ac7145941146dc74e5792
