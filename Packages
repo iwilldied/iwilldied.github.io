@@ -274,4 +274,56 @@ Size: 254852
 MD5sum: ffa0a9127f98dca00c824427af644588
 SHA1: dd1182acc392663c74bb6a0042b62f237bbbb634
 SHA256: d4b74d298801c336f087ea036c1598274feac5e1dc71659abd5193de95a04354
-SHA512:1d9bed92ad72c1dfc9702a02c845bffa1e3a09942020276e9e59bb16c3a2ac3644e31d8eef95ba21c182673904492157212c7119de9ac7145941146dc74e5792
+SHA512: 1d9bed92ad72c1dfc9702a02c845bffa1e3a09942020276e9e59bb16c3a2ac3644e31d8eef95ba21c182673904492157212c7119de9ac7145941146dc74e5792
+
+Package: com.iwilldied.minimilitiaiosmod
+Name: Mini Militia MOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Mini Militia Doodle Army 2 Mod Menu
+Maintainer: iwilldied
+Author: VinhTran
+Section: Hack Game
+Version: 5.3.4
+Installed-Size: 616
+Filename: ./DEB/com.iwilldied.minimilitiaiosmod_5.3.4_iphoneos-arm.deb
+Size: 343810
+MD5sum: e6e73390ad1ffb07d879f7b3152b8fb1
+SHA1: 8a0335477c96c8891a8727f48da0c1eba9a60c0e
+SHA256: 658d9442d422374ee91ae32a0f43b731b376ee9577bdd2cfbcefda945105b235
+SHA512: fa14761deab0ccf84b7cfcddcbfb5d5f1145a14e9631c031711e97cf460005f5b19470d03fb647439ea83879f540514d9c992cf217a56f74d5ba8f07364697b8
+
+Package: com.iwilldied.soulknight
+Name: Soulknight Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Mod Menu Soulknight
+Maintainer: iwilldied
+Author: doantien
+Section: Hack Game
+Version: 4.2.0
+Installed-Size: 320
+Filename: ./DEB/com.iwilldied.soulknight_4.2.0_iphoneos-arm.deb
+Size: 112518
+MD5sum: 85ad618db6275852ab4838c57a028281
+SHA1: a133f692d0cebe4a2401b36e0b89f55695674e33
+SHA256: df0abebe719e951a6a875eecd3010c28659d332d9ffe6c107fce1461615670a9
+SHA512: b622e442c4b109e0cb8123d74ae95313847b9a871153528a2a55db5971f908e55a855f1e8b8937004afbc3da7eb6d7f878d5ffb0db0605ee605c0cb83f1d987e
+
+Package: com.iwilldied.skyforce2014
+Name: SkyForceModByKOG Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SkyForceModByKOG Mod Menu by KOG!
+Maintainer: iwilldied
+Author: KOG
+Section: Hack Game
+Homepage: ByKOG
+Version: 1.45
+Installed-Size: 336
+Filename: ./DEB/com.iwilldied.skyforce2014_1.45_iphoneos-arm.deb
+Size: 130620
+MD5sum: 3b069990be61f1cef7ffbaecc94b2a76
+SHA1: ed977f60ba15781b8117d12a2a6efac413802760
+SHA256: 1aa0191144dc35717e059b3847fd41a31b947b01d51c48355b12d06cc18989e2
+SHA512: 95ac8c19bf98c8e57e790dd5233dc6680b375de4a0926ecfa45f7ef86064d131c148ebf5d218cf1a0e8f7a3db8bd65f367428344e46a0cc02cf7916bc9ee9442
