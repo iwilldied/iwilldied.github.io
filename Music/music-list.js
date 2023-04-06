@@ -8,6 +8,12 @@
 //   }
 
 let allMusic = [
+{
+    name: "U Ok?",
+    artist: "Steve Angello",
+    img: "U Ok Official Visualiser",
+    src: "U Ok Official Visualiser"
+  },
  
   {
     name: "Supermode-Tell_Me_Why_1",
@@ -44,5 +50,11 @@ let allMusic = [
     artist: "Swedish House Mafia",
     img: "Redlight",
     src: "Redlight"
+  },
+  {
+    name: "SHM Live Miami 2023",
+    artist: "Swedish House Mafia",
+    img: "SHM Live Miami 2023",
+    src: "SHM Live Miami 2023"
   },
 ];
