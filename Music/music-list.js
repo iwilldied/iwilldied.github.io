@@ -11,8 +11,8 @@ let allMusic = [
   {
     name: "U Ok?",
     artist: "Paries",
-    img: "U Ok",
-    src: "U Ok"
+    img: "U Ok Official Visualiser",
+    src: "U Ok Official Visualiser"
   },
  
   {
