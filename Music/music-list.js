@@ -9,52 +9,58 @@
 
 let allMusic = [
   {
-    name: "Đám Cưới Nha",
-    artist: "Hồng Thanh,Mie",
-    img: "Dam-Cuoi-Nha",
-    src: "Dam-cuoi-nha"
+    name: "U Ok?",
+    artist: "Paries",
+    img: "U Ok",
+    src: "U Ok"
   },
  
   {
-    name: "See Tình",
-    artist: "Hoàng Thùy Linh",
-    img: "See-Tinh",
-    src: "See-Tinh"
+    name: "Supermode-Tell_Me_Why_1",
+    artist: "SuperMode",
+    img: "Supermode-Tell_Me_Why_1",
+    src: "Supermode-Tell_Me_Why_1"
   },
   {
-    name: "Chỉ Muốn Bên Em Lúc Này",
-    artist: "Huy Vạc",
-    img: "ChiMuonBenEmLucNay",
-    src: "ChiMuonBenEmLucNay"
+    name: "Tell Me Why Meduza Remix",
+    artist: "Meduza",
+    img: "Tell Me Why Meduza Remix",
+    src: "Tell Me Why Meduza Remix"
   },
   {
-    name: "Hồng Nhan",
-    artist: "Jack",
-    img: "Hong-Nhan-Jack",
-    src: "Hong-Nhan-Jack"
+    name: "Tell Me Why Maddix Remix ",
+    artist: "Maddix",
+    img: "Tell Me Why Maddix Remix",
+    src: "Tell Me Why Maddix Remix"
   },
   {
-    name: "Chỉ Muốn Bên Em Thật Gần",
-    artist: "YLinh,Xám",
-    img: "Chi-Muon-Ben-Em-That-Gan",
-    src: "Chi-Muon-Ben-Em-That-Gan"
+    name: "Tell Me Why 1991 Remix",
+    artist: "1991",
+    img: "Tell Me Why 1991 Remix",
+    src: "Tell Me Why 1991 Remix"
   },
   {
-    name: "Em Là Nhất",
-    artist: "ssss",
-    img: "Em-La-Nhat",
-    src: "Em-La-Nhat"
-  },
-  {
-    name: "Vì anh là gió",
-    artist: "Lilk",
-    img: "ViAnhLaGio-LilK-4766315",
-    src: "ViAnhLaGio-LilK-4766315"
+    name: "Let You Do This",
+    artist: "Salvatore Ganacci",
+    img: "Let You Do This Official Audio",
+    src: "Let You Do This Official Audio"
   },
   {
     name: "Redlight",
-    artist: "SHM",
-    img: "shm",
+    artist: "Swedish House Mafia",
+    img: "Redlight",
     src: "Redlight"
-  }
+  },
+  {
+    name: "SHM Live Miami 2023",
+    artist: " Swedish House Mafia",
+    img: "SHM Live Miami 2023",
+    src: "SHM Live Miami 2023"
+  },
+  {
+    name: "Axwell@Tomorrowland-Winter-2023",
+    artist: "Axwell",
+    img: "Axwell@Tomorrowland-Winter-2023",
+    src: "Axwell@Tomorrowland-Winter-2023"
+  },
 ];
