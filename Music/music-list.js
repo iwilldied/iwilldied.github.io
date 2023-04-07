@@ -16,28 +16,28 @@ let allMusic = [
   },
  
   {
-    name: "Supermode-Tell_Me_Why_1",
+    name: "Supermode Tell Me Why",
     artist: "SuperMode",
-    img: "Supermode-Tell_Me_Why_1",
-    src: "Supermode-Tell_Me_Why_1"
+    img: "Supermode",
+    src: "Supermode"
   },
   {
     name: "Tell Me Why Meduza Remix",
     artist: "Meduza",
-    img: "Tell Me Why Meduza Remix",
-    src: "Tell Me Why Meduza Remix"
+    img: "Meduza Remix",
+    src: "Meduza Remix"
   },
   {
     name: "Tell Me Why Maddix Remix ",
     artist: "Maddix",
-    img: "Tell Me Why Maddix Remix",
-    src: "Tell Me Why Maddix Remix"
+    img: "Maddix Remix",
+    src: "Maddix Remix"
   },
   {
     name: "Tell Me Why 1991 Remix",
     artist: "1991",
-    img: "Tell Me Why 1991 Remix",
-    src: "Tell Me Why 1991 Remix"
+    img: "1991 Remix",
+    src: "1991 Remix"
   },
   {
     name: "Let You Do This",

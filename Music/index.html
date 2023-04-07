@@ -10,6 +10,30 @@
   <link rel="shortcut icon" href="https://png.pngtree.com/element_our/png_detail/20181022/music-and-live-music-logo-with-neon-light-effect-vector-png_199406.jpg" type="image/x-icon">
 </head>
 <body>
+  <div class='contentz'>
+    <canvas class='star'></canvas>
+</div>
+<link href="https://cdn.leanhduc.pro.vn/utilities/multi-color-star-effects/style.css" rel="stylesheet"/>
+<script src="https://cdn.leanhduc.pro.vn/jquery/3.6.0.min.js"></script>
+<script src="https://cdn.leanhduc.pro.vn/utilities/multi-color-star-effects/main.js"></script>
+<script>
+      function darkMode() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+      }
+    </script>
+    <style>
+      body {
+        padding: center;
+        background-color: black;
+        color: white;
+        font-size: 17px;
+      }
+      .dark-mode {
+        background-color: white;
+        color: black;
+      }
+    </style>
     <div>
         <div class="wrapper" style="margin:50px 0px;">
             <div class="top-bar">
@@ -42,6 +66,15 @@
               <i id="next" class="material-icons">skip_next</i>
               <i id="more-music" class="material-icons">queue_music</i>
             </div>
+            <div>
+      <button onclick="darkMode()">☀</button>
+    </div>
+    <script>
+      function darkMode() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+      }
+    </script>
             <div class="music-list">
               <div class="header">
                 <div class="row">
